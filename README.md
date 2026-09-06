@@ -40,3 +40,7 @@ The pinned vinext beta exporter omits the base path when prerendering. `scripts/
 ### INAH repository update
 
 Added 24 original English summaries from location-matched INAH guides and 18 new interpretive drawings using archival photographs as architectural references. The atlas now contains 141 source-linked profiles. This update publishes the completed research; it does not claim that every inventory entry has an INAH record. Source links and English credits appear in each site panel. Prompts and photographic references are recorded in `public/art/INAH-PROVENANCE.md`. All 5,223 original coordinates are preserved.
+
+### Conceptual landscapes
+
+Sites without individual artwork use one of 20 distinct AI-generated ink and watercolor landscapes. A seeded hash of each inventory ID distributes images consistently across visits. Unique highlighted and INAH-reference drawings take precedence. Captions identify shared art as conceptual. Prompts are in `public/art/LANDSCAPE-PROMPTS.md`; validate assets and distribution with `node scripts/check-landscapes.mjs`.

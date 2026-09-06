@@ -1,3 +1,4 @@
+import { landscapeFor } from './landscapes';
 import highlightData from '@/content/highlights.json';
 import inahArtData from '@/content/inah-art.json';
 import inahTitleData from '@/content/inah-titles.json';
@@ -17,6 +18,6 @@ export const rankName = (rank: number) => ({1:'Major centre',2:'Important site',
 export const stories: Record<string, Story> = highlightData;
 export const featuredIds = Object.keys(stories);
 export const titleFor = (site: Site) => stories[site.id]?.title || inahTitles[site.id] || (site.id==='site-5000'?'Joya de Cerén':site.name);
-export function artFor(site: Site) { return referenceArt[site.id]?.art || stories[site.id]?.art || (site.coordinates[1] < 16 ? 'highlands' : 'lowlands'); }
+export function artFor(site: Site) { return referenceArt[site.id]?.art || stories[site.id]?.art || landscapeFor(site.id).art; }
 export function geojson(sites: Site[]) { return { type: 'FeatureCollection' as const, features: sites.map(site => ({type:'Feature' as const, id:site.id, geometry:{ type:'Point' as const,coordinates:site.coordinates }, properties:{ id:site.id,name:titleFor(site),rank:site.rank } })) }; }
 export function findSites(sites: Site[], query: string) { const term=normalize(query.trim()); return sites.filter(s => normalize(`${s.name} ${titleFor(s)} ${s.region} ${s.country}`).includes(term)); }
