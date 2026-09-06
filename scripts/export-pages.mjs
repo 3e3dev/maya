@@ -12,6 +12,9 @@ try {
  const html=await response.text();
  assert.ok(html.includes('A world to uncover.'),'Atlas homepage must be rendered');
  assert.ok(html.includes('AN ILLUSTRATED ATLAS'),'Atlas branding must be rendered');
+ assert.ok(html.includes('splash-title')&&html.includes('written in'),'Illustrated splash page must be rendered');
+ assert.ok(html.includes('Enter the atlas')&&html.includes('href="#atlas"'),'Splash page must provide map entry');
+ assert.ok(html.includes('/maya/art/tikal.webp'),'Splash illustration must be included');
  assert.ok(!html.includes('Your site is taking shape'),'Starter must not be exported');
  await rm('out',{recursive:true,force:true});
  await mkdir('out',{recursive:true});

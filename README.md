@@ -14,6 +14,8 @@ Basemap: OpenFreeMap / OpenMapTiles, using OpenStreetMap data. Basemap and coord
 
 ## Content review
 
+The home page opens with an illustrated Tikal cover and a motion-aware transition into the live atlas. The map initializes beneath the cover so it is ready to explore. `#atlas` and existing `#site-…` links bypass the cover; browser Back returns to it after entering the map.
+
 `content/highlights.tsv` and `content/research.tsv` contain original, source-linked editorial summaries keyed to stable record IDs. `scripts/build-content.mjs` produces the public detail catalogue and review report without modifying the source coordinates. `content/review-index.json` records the bounded external reference-index comparison; ambiguous names, modern-town redirects and conflicting coordinates are not automatically enriched. The review is not an exhaustive search of all archaeological literature. See `public/data/review.json` for per-record coverage and methods. Rebuild content with `node scripts/build-content.mjs` after editing the source text. The normal production build runs this automatically.
 
 ## Development
