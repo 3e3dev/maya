@@ -36,3 +36,7 @@ The bundled starter component catalogue contains pre-existing lint findings; it 
 ## GitHub Pages export
 
 The pinned vinext beta exporter omits the base path when prerendering. `scripts/export-pages.mjs` renders the production `/maya/` route through the framework’s server API and writes its HTML, RSC payload and normalized static assets to `out/`. It verifies the homepage, referenced bundles, data inventory and artwork before deployment. GitHub Actions builds and publishes that directory on pushes to `main`.
+
+### INAH repository update
+
+Added 24 original English summaries from location-matched INAH guides and 18 new interpretive drawings using archival photographs as architectural references. The atlas now contains 141 source-linked profiles. This update publishes the completed research; it does not claim that every inventory entry has an INAH record. Source links and English credits appear in each site panel. Prompts and photographic references are recorded in `public/art/INAH-PROVENANCE.md`. All 5,223 original coordinates are preserved.

@@ -8492,14 +8492,26 @@
     "straightLineKm": 47.9
   },
   "site-1193": {
-    "description": "Kohunlich is distinguished by the large stucco faces that flank the stairway of the Temple of the Masks. Traces of red pigment survive on figures interpreted as royal persons wearing solar attributes. Around this temple, residential, civic and religious buildings spread through the forest, making the site more than a single celebrated monument. Its modern name derives from the English expression Cohoon Ridge, referring to the area's palms. Looking from the sculpted faces to the surrounding architectural groups reveals the relationship between the display of royal authority and the spaces used by the broader community.",
+    "description": "Kohunlich is distinguished by the large stucco faces that flank the stairway of the Temple of the Masks. Traces of red pigment survive on figures interpreted as royal persons wearing solar attributes. Around this temple, residential, civic and religious buildings spread through the forest, making the site more than a single celebrated monument. Its modern name derives from the English expression Cohoon Ridge, referring to the area's palms. Looking from the sculpted faces to the surrounding architectural groups reveals the relationship between the display of royal authority and the spaces used by the broader community.\n\nINAH’s guide places the civic and residential core on the higher western plain, with lower eastern ground supporting food production and water storage. The Yaxná group preserves some of the earliest monumental construction and high-status burials. Later growth produced varied neighbourhoods rather than a single compact temple precinct.\n\nThe Las Vías group yielded unfinished stone tools and flint-working debris, providing evidence of craft activity. The Pixa’an and Twenty-Seven Steps groups preserve substantial residential compounds, while the Merwin Plaza contains buildings with several forms of columns and porticoes. Later platforms and offerings among abandoned buildings indicate that parts of the settlement remained in use after its major construction projects had ceased. The celebrated stucco masks are interpreted in the guide as royal or ancestral figures bearing solar attributes, connecting rulership with sacred imagery.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4346",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27429",
+        "label": "INAH · Kohunlich archaeological guide (2019)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2019",
+        "author": "INAH",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_667.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-1194": {
     "description": "Kaminaljuyú was a major centre in the Valley of Guatemala, with a long occupation reaching back into the Preclassic. Its buildings were largely constructed from earth and adobe, giving the surviving mounds a very different appearance from lowland limestone temples. Modern Guatemala City has absorbed much of the ancient settlement, and the archaeological park preserves only part of its former extent. Excavations, sculpture and buried structures provide evidence for its connections and changing importance. Understanding Kaminaljuyú requires looking beyond the modest visible remains to the much larger city documented through archaeological investigation.",
@@ -8633,7 +8645,7 @@
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4401",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
@@ -8734,62 +8746,98 @@
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4364",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
   },
   "site-1224": {
-    "description": "Calakmul was a powerful city whose rulers built a network of alliances across the Maya lowlands. Its rivalry with Tikal shaped the histories of many smaller kingdoms. Thousands of structures extend beyond its monumental core, showing the scale of the surrounding urban population. Structure II, an enormous pyramid enlarged through successive building phases, contains royal tombs within its accumulated architecture. Stelae and other monuments preserve traces of court life and dynastic ambition. The forest setting can make the ruins seem isolated today, although their history belongs to a densely connected political landscape.",
+    "description": "Calakmul was a powerful city whose rulers built a network of alliances across the Maya lowlands. Its rivalry with Tikal shaped the histories of many smaller kingdoms. Thousands of structures extend beyond its monumental core, showing the scale of the surrounding urban population. Structure II, an enormous pyramid enlarged through successive building phases, contains royal tombs within its accumulated architecture. Stelae and other monuments preserve traces of court life and dynastic ambition. The forest setting can make the ruins seem isolated today, although their history belongs to a densely connected political landscape.\n\nCalakmul's buildings preserve successive construction projects inside later monuments. The INAH guide describes earlier architecture enclosed within Structure II, including monumental masks and a broad decorated frieze. Rebuilding incorporated these earlier works into a larger architectural mass, so the visible exterior represents only part of the monument's history.\n\nThe Chik Naab complex offers a different kind of evidence: paintings with a broad color palette and carefully rendered clothing survive on a buried building. Elite residences and richly furnished burials in the Great Acropolis further distinguish palace life from the public plazas. The guide emphasizes that the city's development continued after its defeat by Tikal in 695, while later offerings and incense burners indicate visits after royal power had declined. Political defeat, urban change and the end of ritual activity were separate processes.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Calakmul",
         "label": "Wikipedia · archaeological overview"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27205",
+        "label": "INAH · Calakmul archaeological guide (2015)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2015",
+        "author": "Ramón Carrasco Vargas",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_412.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-1225": {
     "description": "Balamkú preserves an extraordinary modelled and painted stucco frieze from an earlier palace concealed beneath a later building. The decoration combines figures and supernatural imagery in a composition interpreted as connecting different levels of the Maya cosmos. Its survival owes much to the deliberate filling and covering of the palace during rebuilding. The sculpted surface retains evidence of colour, reminding us that Maya monuments were not originally bare stone. This record appears in the source inventory as Balamku or Chunhabil; the highlighted drawing focuses on the site's surviving frieze rather than an imagined complete reconstruction.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/5395",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
   },
   "site-1226": {
-    "description": "Hormiguero's Structure II combines slender ornamental towers with an enormous monster-mouth entrance. This dramatic façade brings together Río Bec and Chenes architectural elements in a single building. Other groups include temples and many structures that remain largely unexcavated. The city's principal flourishing belongs to the Late Classic, around 650–850 CE. Its buildings are especially revealing for the inventive ways regional architects combined height, horizontal mass and sculptural doorways.",
+    "description": "Hormiguero's Structure II combines slender ornamental towers with an enormous monster-mouth entrance. This dramatic façade brings together Río Bec and Chenes architectural elements in a single building. Other groups include temples and many structures that remain largely unexcavated. The city's principal flourishing belongs to the Late Classic, around 650–850 CE. Its buildings are especially revealing for the inventive ways regional architects combined height, horizontal mass and sculptural doorways.\n\nHormiguero lies near the meeting of the Río Bec and Petén architectural regions. Structure II preserves an especially elaborate south façade: a central monster-mouth entrance is flanked by tower forms and additional ornamented doorways. The building contained eight rooms in two parallel ranges. Its rear façade was comparatively plain, with a portico whose columns probably supported a perishable roof.\n\nINAH’s guide describes an earlier building beneath this structure, demonstrating that the celebrated façade belongs to a sequence of rebuilding. In the Central Group, Structure V rises above a vaulted passage and repeats some of the larger building’s tower and mask motifs on a smaller scale. The contrast between its surviving west side and damaged east side makes the difference between preserved fabric and reconstruction particularly important.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Hormiguero,_Mexico",
         "label": "Wikipedia · Hormiguero, Mexico",
         "matchMethod": "name and nearby coordinates",
         "distanceKm": 1.127
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27276",
+        "label": "INAH · Hormiguero archaeological guide (1999)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "1999",
+        "author": "Ángeles Cantero Aguilar",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_48.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "sourced-profile"
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-1227": {
     "description": "Chicanná's buildings are celebrated for façades in which architectural doorways become the open jaws of a supernatural being. Structure II is the clearest example, with a carefully composed arrangement of eyes, teeth and other sculpted elements surrounding the entrance. Other mask panels show variations in this regional imagery. The settlement stood close to Becán, and archaeological research places it within that larger city's sphere of interaction. Its surviving palatial architecture suggests an elite community whose builders invested heavily in decoration, making the transition from an outdoor plaza to an interior room a visually charged experience.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4384",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
   },
   "site-1228": {
-    "description": "Becán's most unusual feature is the deep ditch surrounding its central precinct, the feature that inspired its modern name. The settlement began in the Middle Preclassic and later developed imposing buildings in the Río Bec architectural tradition. Imported material indicates connections with distant Teotihuacan, while its position near Chicanná and Xpuhil places it within a busy regional network. Construction and population changed considerably over its long history. The combination of a bounded monumental core, large temple structures and surrounding settlement makes Becán a particularly useful place to examine urban organisation and the control of access.",
+    "description": "Becán's most unusual feature is the deep ditch surrounding its central precinct, the feature that inspired its modern name. The settlement began in the Middle Preclassic and later developed imposing buildings in the Río Bec architectural tradition. Imported material indicates connections with distant Teotihuacan, while its position near Chicanná and Xpuhil places it within a busy regional network. Construction and population changed considerably over its long history. The combination of a bounded monumental core, large temple structures and surrounding settlement makes Becán a particularly useful place to examine urban organisation and the control of access.\n\nBecán’s monumental core was enclosed by a ditch and parapet, with seven crossings providing access. INAH’s guide notes that the ditch may initially have drained excess rainwater before serving defensive purposes. Most inhabitants lived outside this enclosure, so the prominent ruins represent a restricted centre within a wider settlement.\n\nStructure VIII combines a long palace, eight rooms and tall lateral towers; an interior passage connects additional vaulted chambers. Structure X forms part of a complex of courtyards and many rooms, including a central palace with benches, niches and fittings for curtains. Successive construction concealed parts of this earlier arrangement beneath stepped platforms. At Structure IX, excavations identified multiple phases and recovered a group of ceramic vessels whose imagery and inscriptions contribute to the site’s history.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Becan",
         "label": "Wikipedia · archaeological overview"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27249",
+        "label": "INAH · Becán archaeological guide (2015)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2015",
+        "author": "Antonio Benavides Castillo",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_452.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-1229": {
     "description": "Dzibilnocac developed in the Chenes region near modern Vicente Guerrero. Its principal palace-temple combines a long range of vaulted rooms with towers and elaborate mask decoration. A longer occupation preceded its Late Classic flourishing. The visible architecture exemplifies the region's interest in turning façades and entrances into large sculptural compositions. Much of the wider settlement remains represented by mounds, so the best-known building is only part of the ancient city.",
@@ -8818,14 +8866,26 @@
     "straightLineKm": 37.7
   },
   "site-1232": {
-    "description": "Mayapán was a major political and cultural centre in the northern Yucatán during the Late Postclassic. Thousands of structures, most of them houses, occupied the densely settled area inside its long perimeter wall, with additional neighbourhoods outside. Its ceremonial centre combines pyramids, shrines, colonnaded halls and round buildings in closely packed spaces. The main pyramid echoes the better-known El Castillo at Chichén Itzá. Mayapán offers a different picture from the forest cities of the Classic period: its archaeology is especially useful for understanding households, craft activity and political life in the centuries before Spanish colonisation.",
+    "description": "Mayapán was a major political and cultural centre in the northern Yucatán during the Late Postclassic. Thousands of structures, most of them houses, occupied the densely settled area inside its long perimeter wall, with additional neighbourhoods outside. Its ceremonial centre combines pyramids, shrines, colonnaded halls and round buildings in closely packed spaces. The main pyramid echoes the better-known El Castillo at Chichén Itzá. Mayapán offers a different picture from the forest cities of the Classic period: its archaeology is especially useful for understanding households, craft activity and political life in the centuries before Spanish colonisation.\n\nMayapán's surviving paintings add an intimate counterpoint to its walls and monumental pyramid. The INAH guide describes painted niches, serpent imagery and aquatic scenes that once gave several buildings vividly colored surfaces. In the Temple of the Painted Niches, miniature temple fronts appear above serpent heads; the Fisherman's Temple includes a scene involving a person, fish and an alligator.\n\nAnother painted ensemble beside the Castillo shows richly dressed figures holding a circular solar emblem against blue. These details connect architecture with imagery also encountered in painted manuscripts and wider Mesoamerican traditions. The guide cautions against treating the famous alliance of Mayapán, Uxmal and Chichén Itzá as a straightforward contemporary federation: archaeological evidence places their principal periods of prominence at different times. The city's history requires both documentary traditions and excavation evidence.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Mayapan",
         "label": "Wikipedia · archaeological overview"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27430",
+        "label": "INAH · Mayapán archaeological guide (2019)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2019",
+        "author": "Carlos Alberto Peraza Lope",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_668.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-1233": {
     "description": "Bonampak is best known for the paintings preserved in the three rooms of its Temple of the Murals. Their crowded scenes depict court ceremony, warfare and its aftermath, offering unusually vivid evidence of elite dress, musicians, gestures and political display. The city's history was closely tied to nearby Yaxchilán, a larger power in the Usumacinta region. The temple stands on an acropolis above the main plaza, so its intimate painted interiors form part of a broader public setting. Lacandon Maya knew and visited these ruins before they became widely known to outside researchers.",
@@ -8842,7 +8902,7 @@
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4367",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
@@ -13853,11 +13913,22 @@
     "straightLineKm": 53.5
   },
   "site-1946": {
-    "description": "Izapa is listed in Chiapas, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 14.90793° N, 92.16671° W. Its recorded point lies about 56 km in a straight line from Tak'alik Ab'aj; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "unresolved-reference-match",
-    "nearbyHighlight": "site-0482",
-    "straightLineKm": 55.9
+    "description": "The INAH guide emphasizes Izapa’s place in the Mixe-Zoque cultural region and its connections with artistic traditions that later flourished across the Maya world. Groups of earthen mounds enclose plazas where stelae and altars were carefully positioned. Later buildings in Group F used river stones from the nearby Izapa River as facing material.\n\nThe carved monuments combine people, animals and supernatural beings in complex scenes. Some arrange imagery into celestial, earthly and underworld zones. The guide interprets Stela 5’s great tree as an axis linking those realms, while other carvings depict ritual, rulership and mythological action. These are interpretations of a distinctive sculptural tradition, not a fully deciphered written account. The setting beneath the volcanic highlands forms an important part of the site’s wider landscape.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27353",
+        "label": "INAH · Izapa archaeological guide (2018)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2018",
+        "author": "Víctor Manuel Ortiz Villarreal , Traductor (trl): Violeta Hinojosa Navarro , Productor (pro): Centro Cultural de los Altos de Chiapas",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_598.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-1947": {
     "description": "Tuxtla Chico is listed in Chiapas, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 14.92304° N, 92.16699° W. Its recorded point lies about 57 km in a straight line from Tak'alik Ab'aj; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -15048,16 +15119,28 @@
     "straightLineKm": 30.9
   },
   "site-2116": {
-    "description": "Muyil, also called Chunyaxché, lies beside the lagoons of the eastern Yucatán. Its steep temple architecture has affinities with Petén traditions, while canals and coastal routes connected the settlement to exchange networks. Finds indicate occupation from the Preclassic through the late pre-Hispanic centuries. The site has also been linked with Cobá. Its combination of inland monumental buildings and access to a lagoon system helps explain the relationship between forest settlements and Caribbean trade.",
+    "description": "Muyil, also called Chunyaxché, lies beside the lagoons of the eastern Yucatán. Its steep temple architecture has affinities with Petén traditions, while canals and coastal routes connected the settlement to exchange networks. Finds indicate occupation from the Preclassic through the late pre-Hispanic centuries. The site has also been linked with Cobá. Its combination of inland monumental buildings and access to a lagoon system helps explain the relationship between forest settlements and Caribbean trade.\n\nMuyil comprises several architectural groups rather than a single compact monument. The INAH guide distinguishes its principal precinct, a cenote group and western remains, with local causeways connecting parts of the settlement. The buildings visible on a visit represent only a portion of the ancient community, whose location also connected it with lagoon resources and regional movement.\n\nThe Castillo combines a tall temple platform with an unusual solid circular element above the sanctuary; the guide leaves that feature's function unresolved. Traces of red and Maya blue paint recall the buildings' former appearance. Temple 8 preserves successive stairways and an inner sanctuary enclosed by later construction, with painted surfaces surviving within. Differences between earlier architecture and later East Coast forms make Muyil especially useful for following changing building traditions through time, without assuming that every visible structure belongs to the same phase.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Muyil",
         "label": "Wikipedia · Muyil",
         "matchMethod": "name and nearby coordinates",
         "distanceKm": 0.248
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27079",
+        "label": "INAH · Muyil archaeological guide (1991)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "1991",
+        "author": "Elia del Carmen Trejo Alvarado",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_299.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "sourced-profile"
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-2117": {
     "description": "Cobá developed beside lakes in the eastern Yucatán and connected its dispersed building groups with raised stone roads called sacbeob. One exceptionally long causeway reaches west to Yaxuná, over 100 kilometres away. The Nohoch Mul group contains the city's best-known tall pyramid, while carved stelae record rulers and ceremonies. Much of the monumental construction belongs to the middle and later Classic centuries, but repair and building continued into the Postclassic. The roads are essential to reading Cobá: they reveal a city organised through movement between widely separated plazas, neighbourhoods and allied places.",
@@ -15584,16 +15667,26 @@
     "straightLineKm": 9.7
   },
   "site-2190": {
-    "description": "Acanceh preserves major Maya monuments within a modern town southeast of Mérida. Large masks survive on an earlier stage of its pyramid, while the Palace of the Stuccos carries elaborate architectural decoration. These buildings are part of a much larger ancient settlement beneath the present streets. Their sculptural detail and evidence of connections beyond the northern lowlands make Acanceh an important example of continuity and transformation in an inhabited archaeological landscape.",
+    "description": "Acanceh preserves major Maya monuments within a modern town southeast of Mérida. Large masks survive on an earlier stage of its pyramid, while the Palace of the Stuccos carries elaborate architectural decoration. These buildings are part of a much larger ancient settlement beneath the present streets. Their sculptural detail and evidence of connections beyond the northern lowlands make Acanceh an important example of continuity and transformation in an inhabited archaeological landscape.\n\nINAH’s guide describes an ancient settlement extending across roughly three square kilometres beneath and around the modern town. Its main pyramid was originally decorated with eight large stucco masks beside four stairways. Early photographs and surviving fragments helped researchers document decoration that had already disappeared from part of the building by the 1930s. The masks made sacred imagery visible in a public ceremonial setting.\n\nThe Palace of the Stuccoes stands on a substantial platform. Its small rooms and earlier construction suggest ritual use, while later buildings on the platform may have served administrative purposes. The painted frieze combines stylized mammals, birds and other supernatural figures within stepped frames; ochre, green and red were prominent colours. The guide interprets this imagery in relation to the celestial realm and the ruling lineage, while treating the precise identities of the figures as uncertain.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Acanceh",
         "label": "Wikipedia · Acanceh",
         "matchMethod": "name and nearby coordinates",
         "distanceKm": 0.216
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27169",
+        "label": "INAH · Acanceh archaeological guide (2001)",
+        "language": "Spanish",
+        "author": "Beatriz Quintal Suaste",
+        "publicationYear": "2001",
+        "pages": "3–8",
+        "summaryLanguage": "English"
       }
     ],
-    "reviewStatus": "sourced-profile"
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-2191": {
     "description": "Poxila is listed in Yucatan, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as medium site and locates it at 20.82059° N, 89.80635° W. Its recorded point lies about 33 km in a straight line from Oxkintok; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -19447,11 +19540,22 @@
     "straightLineKm": 46.5
   },
   "site-2737": {
-    "description": "Pomona is listed in Tabasco, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 17.48389° N, 91.55274° W. Its recorded point lies about 47 km in a straight line from Piedras Negras; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "survey-record",
-    "nearbyHighlight": "site-4942",
-    "straightLineKm": 46.8
+    "description": "Pomoná occupied a strategic setting between the coastal plain and routes along the Usumacinta. The INAH guide presents control of movement through this landscape as a possible reason for rivalry involving Palenque and Piedras Negras. Captives associated with Pomoná appear on Piedras Negras Stela 12, placing the city within documented regional conflict.\n\nThe settlement was dispersed among six major architectural groups. Builders transported limestone from the nearby foothills to create platforms and sculpted monuments. In Group I, a large open plaza is framed by higher structures on the north and west and lower platforms on the east. Building 3 is notable for stairway slabs bearing solar imagery. Building 1 retains a fragmentary circular altar in front of its main stairway. These surviving details connect the city's political history with the organization of its public spaces.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27279",
+        "label": "INAH · Pomoná archaeological guide (2017)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2017",
+        "author": "Ito J. Kato Vidal",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_482.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-2738": {
     "description": "Ramonalito is listed in Peten, Guatemala by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 17.40987° N, 89.54200° W. Its recorded point lies about 10 km in a straight line from Uaxactún; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -19962,11 +20066,22 @@
     "straightLineKm": 52.5
   },
   "site-2810": {
-    "description": "Tenam Puente is listed in Chiapas, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 16.16968° N, 92.15046° W. Its recorded point lies about 81 km in a straight line from Toniná; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "unresolved-reference-match",
-    "nearbyHighlight": "site-5153",
-    "straightLineKm": 80.6
+    "description": "Tenam Puente's Acropolis was created by repeatedly leveling and terracing a hill. Its different elevations directed movement between plazas and more restricted spaces. The INAH guide distinguishes this highland building tradition from lowland Maya architecture: corbelled stone vaults were not used here, and several buildings have substantial sloping retaining walls.\n\nThree ballcourts show the importance of ritual gatherings. The largest occupies an open plaza below the Acropolis, where a considerable audience could assemble. Burials placed within Building 7 included objects from distant regions, while a tomb in Building 21 contained jadeite, marine shells and a carved bone serpent. These finds connect the hilltop community with wider exchange networks. Modeled stucco on Building 29 included Venus and death-related imagery, adding another layer to the way architecture framed ritual experience.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27302",
+        "label": "INAH · Tenam Puente archaeological guide (2016)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2016",
+        "author": "Gabriel Lalo Jacinto , Productor (pro): Centro Cultural de los Altos de Chiapas",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_502.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-2811": {
     "description": "Frenchmans Cay is listed in Toledo, Belize by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 16.14655° N, 88.72197° W. Its recorded point lies about 22 km in a straight line from Nim Li Punit; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -20004,11 +20119,22 @@
     "straightLineKm": 57.7
   },
   "site-2816": {
-    "description": "Lagartero is listed in Chiapas, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 15.82714° N, 91.89796° W. Its recorded point lies about 70 km in a straight line from Zaculeu; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "survey-record",
-    "nearbyHighlight": "site-4995",
-    "straightLineKm": 70
+    "description": "Lagartero's inhabitants adapted an island and wetland landscape. The main civic and ceremonial precinct occupies Limonal Island, while smaller remains around the marsh reflect a wider settlement. Fishing and hunting supplemented maize and cotton farming; imported obsidian and other goods connected the community with distant regions.\n\nThe INAH guide describes terraced buildings arranged around plazas and smaller courtyards, together with a ballcourt. On two pyramids, recessed forms resemble an inverted T, a motif interpreted by some researchers as a reference to wind. The Guajil Pyramid has a broad stairway rising through its stepped platform to the remains of a temple. Excavated figurines preserve unusually specific details of clothing and headdresses, while broken pottery and animal remains provide evidence for ceremonial deposits. These finds bring household life, exchange and ritual into the history of the same marshland community.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27371",
+        "label": "INAH · Lagartero archaeological guide (2018)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2018",
+        "author": "Gabriel Lalo Jacinto , Traductor (trl): Violeta Hinojosa Navarro , Productor (pro): Centro Cultural de los Altos de Chiapas",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_613.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-2817": {
     "description": "Guajilar is listed in Chiapas, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 15.75882° N, 92.02964° W. Its recorded point lies about 74 km in a straight line from Zaculeu; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -25220,14 +25346,26 @@
     "straightLineKm": 21.1
   },
   "site-3555": {
-    "description": "Labná's freestanding decorated arch is one of the most distinctive surviving monuments of the Puuc region. Its corbelled opening frames passage between architectural spaces, while finely worked ornament covers the upper façade. The nearby Palace and the temple called El Mirador show the same attention to surface and silhouette. Settlement began earlier, but the city's main flowering came around 800–1000 CE. Labná was a medium-sized community, possibly linked to a larger regional capital; the elaborate surviving buildings show that exceptional craftsmanship was not confined to the largest Maya cities.",
+    "description": "Labná's freestanding decorated arch is one of the most distinctive surviving monuments of the Puuc region. Its corbelled opening frames passage between architectural spaces, while finely worked ornament covers the upper façade. The nearby Palace and the temple called El Mirador show the same attention to surface and silhouette. Settlement began earlier, but the city's main flowering came around 800–1000 CE. Labná was a medium-sized community, possibly linked to a larger regional capital; the elaborate surviving buildings show that exceptional craftsmanship was not confined to the largest Maya cities.\n\nLabná’s central buildings occupy a valley surrounded by residential hills. INAH’s guide distinguishes earlier construction around the southern ceremonial area from later enlargement of the Palace complex. The Palace grew through several stages, with earlier rooms and patios incorporated into a much larger platform and rows of vaulted chambers. Unfinished rooms in its northeastern sector preserve evidence that the final project was never completed.\n\nA relief associated with Room 19 contains a date corresponding to AD 862; the guide suggests it may commemorate the dedication of a throne room. A causeway linked the Palace with the sacred precinct near the Mirador and Arch. The buildings also show changes within Puuc architecture, from relatively plain walls and stucco roof decoration to elaborate stone mosaics. Numerous underground cisterns supplied stored rainwater within the settlement.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4427",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27214",
+        "label": "INAH · Labná archaeological guide (2015)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2015",
+        "author": "José Guadalupe Huchim Herrera",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_420.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-3556": {
     "description": "Lacanja is listed in Chiapas, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 16.73333° N, 91.11265° W. Its recorded point lies about 6 km in a straight line from Bonampak; proximity alone does not establish a historical relationship.\n\nThe original notes contain survey codes or abbreviated references, retained below without assigning unsupported historical meanings. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -25338,7 +25476,7 @@
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4361",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
@@ -26650,7 +26788,7 @@
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4400",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
@@ -27858,11 +27996,22 @@
     "straightLineKm": 361.7
   },
   "site-3928": {
-    "description": "Mitla is listed in Oaxaca, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 16.93191° N, 96.38326° W.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "survey-record",
-    "nearbyHighlight": "site-4951",
-    "straightLineKm": 369
+    "description": "Mitla is a Zapotec city in Oaxaca, retained here as part of the original atlas's broader Mesoamerican inventory. Its principal later palaces developed after Monte Albán's decline. Five monumental groups preserve different layouts: some arrange platforms around open plazas, while others organize residential and administrative rooms around enclosed courtyards.\n\nThe Hall of the Columns contains large monolithic supports that once carried its roof. Nearby rooms display mosaics assembled from finely cut stones into intricate geometric panels; the individual pieces of this decorative work fit together without mortar. Cross-shaped tombs beneath the southern complex continue the architectural decoration below ground. The Church Group also preserves traces of manuscript-like mural painting and the later insertion of the Church of Saint Paul. Together, the buildings record a specifically Zapotec architectural tradition and the transformation of an inhabited place through the colonial period.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27383",
+        "label": "INAH · Mitla archaeological guide (2017)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2017",
+        "author": "Agustín Enrique Andrade Cuautle",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_624.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-3929": {
     "description": "Caballito Blanco is listed in Oaxaca, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 16.91118° N, 96.43385° W.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -33755,14 +33904,26 @@
     "straightLineKm": 3.1
   },
   "site-4769": {
-    "description": "Izamal's ancient monumental platforms remain embedded in a living town. The enormous Kinich Kak Moo complex is the most conspicuous survivor, but several other structures preserve the scale of the earlier city. Builders here developed a distinctive use of very large stone blocks, broad stairs and rounded or recessed corners. Roads connected Izamal with neighbouring centres, including Aké, reflecting its regional importance. Religious traditions associated the place with Zamná and solar worship. Reading Izamal requires looking across modern streets as well as individual ruins, because the ancient urban landscape was transformed rather than simply abandoned.",
+    "description": "Izamal's ancient monumental platforms remain embedded in a living town. The enormous Kinich Kak Moo complex is the most conspicuous survivor, but several other structures preserve the scale of the earlier city. Builders here developed a distinctive use of very large stone blocks, broad stairs and rounded or recessed corners. Roads connected Izamal with neighbouring centres, including Aké, reflecting its regional importance. Religious traditions associated the place with Zamná and solar worship. Reading Izamal requires looking across modern streets as well as individual ruins, because the ancient urban landscape was transformed rather than simply abandoned.\n\nIzamal’s ancient settlement extended beyond the modern town. INAH’s guide describes a major plaza framed by monumental religious buildings and a causeway network reaching surrounding communities. Residential remains along the road to Aké show that movement between centres also passed through inhabited landscapes.\n\nThe Itzamatul platform preserves several construction stages, with an earlier stepped building eventually enclosed inside a much larger base. At Kabul, nineteenth-century drawings and investigations recorded stucco decoration that no longer survives. Other groups, including Habuc and Chaltunha, preserve different parts of the city’s architectural history. The Franciscan monastery was erected over another major pre-Hispanic platform, transforming the southern edge of the ancient plaza. Izamal therefore offers a layered urban landscape in which later construction both damaged and incorporated earlier monuments.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4422",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27181",
+        "label": "INAH · Izamal archaeological guide (2001)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2001",
+        "author": "Luis Alfonso Millet Cámara",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_391.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-4770": {
     "description": "Xanaba is listed in Yucatan, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 20.84071° N, 89.01222° W. Its recorded point lies about 11 km in a straight line from Izamal; proximity alone does not establish a historical relationship.\n\nThe original notes contain survey codes or abbreviated references, retained below without assigning unsupported historical meanings. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -34892,16 +35053,28 @@
     "straightLineKm": 34.7
   },
   "site-4931": {
-    "description": "Loltún is a cave system with evidence of human activity extending far earlier than the monumental Maya cities. Paintings, hand images, tools and pottery document different uses of its chambers, while extinct-animal remains belong to a deeper environmental history. Maya communities used the cave for activities including shelter and clay extraction. Its archaeology therefore spans several kinds of evidence that should not all be assigned to one period or function.",
+    "description": "Loltún is a cave system with evidence of human activity extending far earlier than the monumental Maya cities. Paintings, hand images, tools and pottery document different uses of its chambers, while extinct-animal remains belong to a deeper environmental history. Maya communities used the cave for activities including shelter and clay extraction. Its archaeology therefore spans several kinds of evidence that should not all be assigned to one period or function.\n\nLoltún preserves evidence of uses that extend well beyond a single Maya building period. Its chambers sheltered early inhabitants of the peninsula and later became settings for ritual activity. Carved water-catching basins, altered rock surfaces and an altar show how people adapted the natural cave rather than constructing a conventional temple precinct.\n\nAt the Nahkab entrance, a relief depicts a richly dressed standing figure with a spear and elaborate headdress. Elsewhere, painted hands, animals, human figures and stepped designs survive on the rock. These traces belong to different episodes of use; they should not be read as one contemporary decorative program. The INAH guide also describes barriers associated with the nineteenth-century Caste War, a reminder that the cave's history continued long after the ancient cities changed.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Loltun",
         "label": "Wikipedia · Loltun",
         "matchMethod": "name and nearby coordinates",
         "distanceKm": 0.094
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27382",
+        "label": "INAH · Loltún archaeological guide (2018)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2018",
+        "author": "José Guadalupe Huchim Herrera , Traductor (trl): Victoria Padilla Bernal , Productor (pro): Centro Cultural de los Altos de Chiapas",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_623.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "sourced-profile"
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-4932": {
     "description": "Copán flourished in a fertile valley near the southeastern edge of the Maya world. Its sculptors gave rulers remarkably three-dimensional form on stelae, surrounding their bodies with elaborate costumes and symbolic imagery. The Acropolis grew through repeated construction, preserving earlier buildings beneath later ones. The Hieroglyphic Stairway records an extensive dynastic narrative, while plazas, altars and ballcourt monuments connect royal history with public ceremony. Copán is especially distinctive for the density and quality of its sculpture: individual carved surfaces reward as much attention as the larger arrangement of temples and palaces.",
@@ -34931,14 +35104,26 @@
     "straightLineKm": 76.2
   },
   "site-4935": {
-    "description": "Kabah's palatial groups occupy raised ground in the Puuc region. The East Group served as a residence for the ruling lineage and a setting for civic and religious activity. Its buildings enclose plazas and contain numerous vaulted rooms, indicating a substantial administrative as well as ceremonial role. The Codz Poop is famous for its repeated sculpted masks, while the nearby two-storey Palace uses a more restrained arrangement of small columns and plain panels. These different treatments make the site a rich study in how Puuc architects varied decoration within a closely related group of buildings.",
+    "description": "Kabah's palatial groups occupy raised ground in the Puuc region. The East Group served as a residence for the ruling lineage and a setting for civic and religious activity. Its buildings enclose plazas and contain numerous vaulted rooms, indicating a substantial administrative as well as ceremonial role. The Codz Poop is famous for its repeated sculpted masks, while the nearby two-storey Palace uses a more restrained arrangement of small columns and plain panels. These different treatments make the site a rich study in how Puuc architects varied decoration within a closely related group of buildings.\n\nKabah’s main architectural groups occupy raised parts of the terrain, with large platforms organizing plazas and controlling access between public and more restricted spaces. INAH’s guide links the Eastern Group with both royal residence and civic or religious activity during the city’s principal flowering.\n\nThe Codz Poop was altered over time: a later wing added rooms and imagery that included human figures and latticework associated with political authority. This has supported an interpretation of part of the building as a council house. In the plaza, a comparatively small altar bears inscriptions on four sides. Its damage complicates reading the original text, but surviving signs provide evidence for connections with Uxmal. The guide also records a long causeway between the two cities, placing Kabah within a broader Puuc network.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4423",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27352",
+        "label": "INAH · Kabah archaeological guide (2018)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2018",
+        "author": "José Guadalupe Huchim Herrera",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_597.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-4936": {
     "description": "Uxmal is a major expression of Puuc architecture, a regional tradition distinguished by smooth lower walls and richly patterned upper façades. Stone mosaics, geometric bands and long-nosed masks cover buildings arranged across the area's low hills. The unusual rounded base of the Pyramid of the Magician contrasts with the long horizontal lines of the Governor's Palace and the enclosed spaces of the Nunnery Quadrangle. Its principal monuments belong to the later Classic centuries. Their placement and decoration show that the city's builders considered the whole ceremonial landscape, as well as the details of each façade.",
@@ -34951,14 +35136,26 @@
     "reviewStatus": "illustrated-profile"
   },
   "site-4937": {
-    "description": "Sayil grew in a valley with land suitable for agriculture during the later Classic centuries. Its Grand Palace, also called the North Palace, presents a long, carefully ordered façade built through successive phases. Rows of openings, columns and decorated upper walls make it an important example of Puuc architecture. The wider settlement extended well beyond the palace, tying elite residences to farming land and systems for obtaining water. The source atlas places this record in Campeche; the archaeological site is in modern Yucatán, a distinction retained here without silently altering the original survey fields.",
+    "description": "Sayil grew in a valley with land suitable for agriculture during the later Classic centuries. Its Grand Palace, also called the North Palace, presents a long, carefully ordered façade built through successive phases. Rows of openings, columns and decorated upper walls make it an important example of Puuc architecture. The wider settlement extended well beyond the palace, tying elite residences to farming land and systems for obtaining water. The source atlas places this record in Campeche; the archaeological site is in modern Yucatán, a distinction retained here without silently altering the original survey fields.\n\nSayil's layout joins monumental architecture with productive land. The INAH guide describes major stone building groups linked along a roughly north–south axis, with houses and cultivated plots between them. Fertile valley soils helped shape settlement choices despite the scarcity of accessible water; nearby Chaak Cave was one important water source.\n\nThe North Palace grew through several construction phases, but repeating columns, entrances and decorative forms gave the finished facade a coherent rhythm. Its functions extended beyond ceremony: a kitchen identified in the northwest part supports residential use alongside political and administrative activity. Sculpted monuments suggest rulers, while other archaeological evidence points to power shared among important lineages. This combination of palace design, dispersed housing and cultivation makes the city more complex than a single royal residence surrounded by empty jungle.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4458",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27357",
+        "label": "INAH · Sayil archaeological guide (2018)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2018",
+        "author": "José Guadalupe Huchim Herrera",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_600.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-4938": {
     "description": "Chunchucmil was a densely occupied city in western Yucatán whose remains differ from centres dominated by royal stelae. Its residential organisation and relative scarcity of dynastic monuments have encouraged interpretations emphasising commerce and multiple powerful lineages. Located between the Gulf Coast and inland settlements, it was well placed for exchange. Survey of households and routes is especially important here, where urban significance is less obvious from monumental sculpture alone.",
@@ -35014,11 +35211,22 @@
     "reviewStatus": "illustrated-profile"
   },
   "site-4944": {
-    "description": "La Venta is listed in Tabasco, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as important site and locates it at 18.10335° N, 94.04096° W. Its recorded point lies about 91 km in a straight line from Comalcalco; proximity alone does not establish a historical relationship.\n\nThe coordinate note records identification using Google Earth; it should not be treated as a precise archaeological boundary or entrance. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "survey-record",
-    "nearbyHighlight": "site-4951",
-    "straightLineKm": 90.8
+    "description": "La Venta is an Olmec centre included in the source atlas’s wider regional inventory. Its main occupation lasted approximately 1200–400 BC. Civic and ceremonial buildings occupied a natural rise above flood-prone ground, while surrounding households combined farming with the use of forest and aquatic resources. Monumental stone had to be brought from beyond the local area.\n\nINAH’s guide describes Complex A’s carefully arranged courtyards, basalt columns, burials and extraordinary buried offerings. Some deposits contained mosaics assembled from hundreds of greenstone blocks; Offering 4 arranged sixteen small figures in a semicircle. Their precise meanings remain debated. Stone-lined channels at the Stirling Acropolis add evidence for water management. Many original sculptures were moved to museums during twentieth-century development, so some monuments displayed at the archaeological site are replicas rather than the excavated originals.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27105",
+        "label": "INAH · La Venta archaeological guide (2000)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2000",
+        "author": "Rebecca Bell González Lauck",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_321.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-4945": {
     "description": "Dzibanché was an early seat of the Kaan, or Snake, dynasty, whose later history is closely associated with Calakmul. Its extensive settlement includes several monumental groups linked by raised roads, among them the main Dzibanché group and the large Kinichná complex. Palaces, pyramids and royal burials reveal a court with influence beyond southern Quintana Roo. The Temple of the Lintels gives a distinctive focus to the standing architecture. The site's importance lies in both its scale and its place in the changing geography of Maya dynastic power, before and after part of the lineage established itself at Calakmul.",
@@ -35049,7 +35257,7 @@
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4339",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
       }
     ],
     "reviewStatus": "illustrated-profile"
@@ -35112,14 +35320,26 @@
     "reviewStatus": "illustrated-profile"
   },
   "site-4955": {
-    "description": "Aké's best-known monument is a broad raised platform topped by rows of substantial stone columns. Its stairs use unusually large, flat slabs, giving the approach a different rhythm from the narrow steps of many Maya pyramids. This megalithic building tradition links the site with other northern centres, especially Izamal, to which a raised causeway once led. Two enclosing walls define parts of the settlement. The ruins also lie within a later henequen estate, placing the ancient ceremonial buildings alongside evidence of a much more recent phase of land use.",
+    "description": "Aké's best-known monument is a broad raised platform topped by rows of substantial stone columns. Its stairs use unusually large, flat slabs, giving the approach a different rhythm from the narrow steps of many Maya pyramids. This megalithic building tradition links the site with other northern centres, especially Izamal, to which a raised causeway once led. Two enclosing walls define parts of the settlement. The ruins also lie within a later henequen estate, placing the ancient ceremonial buildings alongside evidence of a much more recent phase of land use.\n\nINAH’s guide distinguishes several building phases within the enormous Building of the Pilasters. Its upper platform carried 35 stone supports, assembled from large blocks and weathered into column-like forms. Later occupants built small rooms over part of this space, reusing or removing some supports. These changes show how monumental places acquired different functions over time.\n\nThe guide also describes Aké’s settlement beyond the central plaza: modest room foundations contrast with residences on raised stone platforms. An approximately 32-kilometre causeway connected Aké with Izamal, while other causeways linked groups within the city. Part of the long road was later covered by a surrounding wall. That sequence raises questions about changing regional relationships, although the exact political events behind it remain interpretations rather than established facts.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Ake",
         "label": "Wikipedia · archaeological overview"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27170",
+        "label": "INAH · Aké archaeological guide (1991)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "1991",
+        "author": "Rubén Maldonado Cárdenas",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_381.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-4956": {
     "description": "Caracol or Punta Islote, Islote Celerain is listed in Quintana Roo, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 20.27265° N, 86.98806° W. Its recorded point lies about 46 km in a straight line from Tulum; proximity alone does not establish a historical relationship.\n\nThe coordinate note records identification using Google Earth; it should not be treated as a precise archaeological boundary or entrance. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -35323,11 +35543,22 @@
     "reviewStatus": "illustrated-profile"
   },
   "site-4981": {
-    "description": "Tres Zapotes is listed in Veracruz, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as important site and locates it at 18.45381° N, 95.43124° W.\n\nThe coordinate note records identification using Google Earth; it should not be treated as a precise archaeological boundary or entrance. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
-    "sources": [],
-    "reviewStatus": "survey-record",
-    "nearbyHighlight": "site-4951",
-    "straightLineKm": 236.1
+    "description": "Tres Zapotes belongs to the Olmec and Epi-Olmec world of Veracruz, rather than being a Maya city. The original atlas includes it within its wider regional coverage. Its major mound groups occupy an alluvial plain and natural terraces near a stream, with separate plazas distributed across the settlement.\n\nThe INAH guide emphasizes the site's long sequence through the transition from Olmec traditions into later regional developments. Stela C preserves an early Long Count calendar inscription, while colossal heads and other carved monuments document public imagery and authority. Investigations of pottery established a lengthy regional chronology. Volcanic deposits also affected the settlement landscape, and researchers have considered whether eruptions helped shift occupation toward higher terraces. The earth mounds, sculpture and environmental evidence therefore tell complementary parts of the story, rather than reducing the site to its famous heads.",
+    "sources": [
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27166",
+        "label": "INAH · Tres Zapotes archaeological guide (2000)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2000",
+        "author": "María del Pilar Caro Sánchez",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_378.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
+      }
+    ],
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-4982": {
     "description": "Cacabbeec is listed in Campeche, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as medium site and locates it at 19.94627° N, 90.19037° W. Its recorded point lies about 39 km in a straight line from Edzná; proximity alone does not establish a historical relationship.\n\nThe coordinate note records identification using Google Earth; it should not be treated as a precise archaeological boundary or entrance. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -35541,14 +35772,26 @@
     "straightLineKm": 28.3
   },
   "site-5004": {
-    "description": "Hochob occupies a hill whose summit was levelled to create a setting for plazas and buildings. Its richly decorated façades are characteristic of the Chenes region: carefully fitted blocks combine into enormous faces, with doorways occupying the open mouths. The Main Palace is the most recognisable example of this sculptural approach to architecture. Although the site's chronology is not precisely defined, its prominent remains are associated with the Late Classic. Hochob's relatively compact hilltop setting allows the relationship between decoration, enclosed rooms and the surrounding plaza to be understood at an intimate scale.",
+    "description": "Hochob occupies a hill whose summit was levelled to create a setting for plazas and buildings. Its richly decorated façades are characteristic of the Chenes region: carefully fitted blocks combine into enormous faces, with doorways occupying the open mouths. The Main Palace is the most recognisable example of this sculptural approach to architecture. Although the site's chronology is not precisely defined, its prominent remains are associated with the Late Classic. Hochob's relatively compact hilltop setting allows the relationship between decoration, enclosed rooms and the surrounding plaza to be understood at an intimate scale.\n\nThe hilltop was deliberately levelled to make room for connected plazas, houses and ceremonial buildings. INAH’s guide places Hochob’s strongest architectural flowering around AD 850–1000. Its small size does not diminish the complexity of its stone façades. Structure II’s entrance turns the entire doorway into an enormous sacred mouth, with teeth, ear ornaments and stacked profile masks integrated into the masonry.\n\nEarly descriptions record a decorated roof-comb above this building, most of which has disappeared. Another group combines Chenes-style imagery with towers and simulated stairways associated with Río Bec architecture. Openings beside the buildings lead to underground rainwater cisterns. These reservoirs help explain how a community sustained itself on a raised limestone site without a permanent surface water supply.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Hochob",
         "label": "Wikipedia · archaeological overview"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27265",
+        "label": "INAH · Hochob archaeological guide (2002)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2002",
+        "author": "Renée Lorelei Zapata Peraza",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_47.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-5005": {
     "description": "Balancanche is listed in Yucatan, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 20.65795° N, 88.53478° W. Its recorded point lies about 4 km in a straight line from Chichén Itzá; proximity alone does not establish a historical relationship.\n\nThe coordinate note records identification using Google Earth; it should not be treated as a precise archaeological boundary or entrance. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -35572,14 +35815,26 @@
     "straightLineKm": 26.7
   },
   "site-5008": {
-    "description": "Oxkintok lies near the northwestern edge of the Puuc hills, where its buildings preserve a long sequence of architectural change. It was among the early important centres of the northern lowlands and has dated inscriptions from the Classic period. The enclosed passages of the Satunsat, often described as a labyrinth, give the site an unusual architectural focus. Other groups show the development of regional Puuc forms. Its hill-country setting and different building phases make Oxkintok particularly valuable for tracing how the monumental traditions of northern Yucatán developed over time.",
+    "description": "Oxkintok lies near the northwestern edge of the Puuc hills, where its buildings preserve a long sequence of architectural change. It was among the early important centres of the northern lowlands and has dated inscriptions from the Classic period. The enclosed passages of the Satunsat, often described as a labyrinth, give the site an unusual architectural focus. Other groups show the development of regional Puuc forms. Its hill-country setting and different building phases make Oxkintok particularly valuable for tracing how the monumental traditions of northern Yucatán developed over time.\n\nOxkintok's architecture records a long sequence of experimentation. The INAH guide follows changes from early regional forms toward the better-known Puuc tradition, including improvements in stone cutting and vault construction. Its principal Ah Dzib, Ah May and Ah Canul groups concentrate buildings on large platforms connected by causeways, while smaller groups extend around them.\n\nThe Satunsat is especially distinctive: a multilevel building with a maze-like arrangement of vaulted passages and chambers, partly adapted to the underlying rock. Small wall openings admitted light or air; proposed astronomical and cosmological functions remain interpretations. Later offerings and alterations in the Ah Canul Group show that some places continued to matter after the city's political importance diminished. Oxkintok thus preserves both changing architectural techniques and the reuse of established sacred settings.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Oxkintok",
         "label": "Wikipedia · archaeological overview"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27218",
+        "label": "INAH · Oxkintok archaeological guide (2015)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2015",
+        "author": "Luis Raúl Pantoja Díaz , Diseñador (dsr): Manuel Cózar",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_424.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-5009": {
     "description": "Actun Spukil is listed in Yucatan, Mexico by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 20.55083° N, 89.91236° W. Its recorded point lies about 4 km in a straight line from Oxkintok; proximity alone does not establish a historical relationship.\n\nThe coordinate note records identification using Google Earth; it should not be treated as a precise archaeological boundary or entrance. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -36621,14 +36876,26 @@
     "straightLineKm": 48
   },
   "site-5153": {
-    "description": "Toniná's monumental centre climbs a hillside in successive terraces, joining palaces, temples and courtyards into a great acropolis. Its rulers competed with other Maya powers, and sculptures of captives record the place of warfare in royal display. The complex includes the Palace of the Fireflies, with rooms around courtyards and evidence of water management, as well as elaborate stucco reliefs. Temples occupy the highest levels. Rather than a single isolated pyramid, Toniná presents an interconnected architectural slope, where ascent through different spaces was central to the experience of the city.",
+    "description": "Toniná's monumental centre climbs a hillside in successive terraces, joining palaces, temples and courtyards into a great acropolis. Its rulers competed with other Maya powers, and sculptures of captives record the place of warfare in royal display. The complex includes the Palace of the Fireflies, with rooms around courtyards and evidence of water management, as well as elaborate stucco reliefs. Temples occupy the highest levels. Rather than a single isolated pyramid, Toniná presents an interconnected architectural slope, where ascent through different spaces was central to the experience of the city.\n\nToniná's Acropolis is a densely organized architectural landscape. Seven rising platforms carry courts, passages, palaces and temples, with successive stairways controlling access as people moved upward. In his INAH guide, archaeologist Juan Yadeun Angulo interprets this arrangement as a ceremonial ordering of space tied to celestial cycles; that symbolic reading is an interpretation of the architecture rather than a surviving written plan.\n\nThe palace areas preserve suites of rooms around interior courts, alongside more austere ranges elsewhere in the complex. Sculpture and modeled stucco made political and ritual messages part of these surroundings, including representations of captives and cosmic imagery. The ballcourt occupied a lower space beside the watercourse. Later reuse altered buildings and monuments after the city's principal royal period, so damaged sculptures and architectural modifications also belong to Toniná's long history.",
     "sources": [
       {
         "url": "https://lugares.inah.gob.mx/es/node/4359",
-        "label": "Instituto Nacional de Antropología e Historia"
+        "label": "INAH · National Institute of Anthropology and History"
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-27499",
+        "label": "INAH · Toniná archaeological guide (2012)",
+        "language": "Spanish",
+        "summaryLanguage": "English",
+        "publicationYear": "2012",
+        "author": "Juan Yadeun Angulo",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2023-12/guia_8.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "illustrated-profile"
+    "reviewStatus": "illustrated-profile",
+    "inahReviewed": true
   },
   "site-5154": {
     "description": "Miguel Hidalgo Iglesia Espirutalista is listed in an unspecified administrative area by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as site with minimal remains and locates it at 18.06371° N, 93.48004° W. Its recorded point lies about 38 km in a straight line from Comalcalco; proximity alone does not establish a historical relationship.\n\nThe original notes contain survey codes or abbreviated references, retained below without assigning unsupported historical meanings. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",
@@ -36862,16 +37129,28 @@
     "straightLineKm": 54
   },
   "site-5187": {
-    "description": "Ichkabal is an extensive ancient settlement in the forest west of Bacalar, near Dzibanché. Large platforms and pyramidal complexes document substantial monumental construction beginning before the Classic period. Its proximity and architectural connections place it within the wider history of southern Quintana Roo and the Kaan dynasty's region. The scale of the principal groups is especially notable, while much of the broader urban landscape requires archaeological investigation beyond its most visible monuments.",
+    "description": "Ichkabal is an extensive ancient settlement in the forest west of Bacalar, near Dzibanché. Large platforms and pyramidal complexes document substantial monumental construction beginning before the Classic period. Its proximity and architectural connections place it within the wider history of southern Quintana Roo and the Kaan dynasty's region. The scale of the principal groups is especially notable, while much of the broader urban landscape requires archaeological investigation beyond its most visible monuments.\n\nThe 2025 INAH guide presents Ichkabal as a landscape of monumental platforms, plazas, causeways and engineered water storage. Structures 4 and 5 are triadic acropolises, each arranging three temples on a raised platform. At Structure 5, superimposed stairways reveal successive construction stages, while surviving stucco masks retain evidence of the buildings’ former decoration. Much of the immense Structure 1 remains beneath vegetation.\n\nBeside the main plaza, an artificial reservoir known as the Crocodile Pool provided stored water and now supports wetland wildlife. Offerings associated with Structure 7 included Pacific shells and jade from Guatemala, connecting this inland settlement with wider exchange networks. The guide also describes an E-Group arrangement used to mark solar events. Such evidence links architecture with ritual, seasonal observation and the practical demands of urban life.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Ichkabal",
         "label": "Wikipedia · Ichkabal",
         "matchMethod": "manual name and regional context",
         "distanceKm": null
+      },
+      {
+        "url": "https://repositorio.inah.gob.mx/o-867333",
+        "label": "INAH · Ichkabal archaeological guide (2025)",
+        "language": "English",
+        "summaryLanguage": "English",
+        "publicationYear": "2025",
+        "author": "INAH",
+        "credit": "National Institute of Anthropology and History (INAH), National Coordination of Dissemination; © Ministry of Culture, INAH, Mexico",
+        "pdfUrl": "https://repositorio.inah.gob.mx/_flysystem/fedora/2025-12/49_za_ichkabal_2025_us_mediateca_20dic.pdf",
+        "sourceRights": "CC BY-NC-ND 4.0"
       }
     ],
-    "reviewStatus": "sourced-profile"
+    "reviewStatus": "sourced-profile",
+    "inahReviewed": true
   },
   "site-5188": {
     "description": "El Achiotal is listed in an unspecified administrative area by the Electronic Atlas of Ancient Maya Sites. The inventory classifies it as minor site and locates it at 17.48976° N, 90.20246° W. Its recorded point lies about 42 km in a straight line from El Mirador; proximity alone does not establish a historical relationship.\n\nThe source supplies no descriptive field notes for this record. No independently verified site history is attached to this entry; occupation dates, rulers and building functions remain unspecified here.",

@@ -44,6 +44,8 @@ try {
  for(const site of sites){assert.ok(details[site.id]?.description.length>100);assert.ok(Array.isArray(details[site.id].sources));}
  for(const id of Object.keys(highlights))assert.ok(sites.some(s=>s.id===id));
  for(const art of [...Object.values(highlights).map(h=>h.art),'lowlands','highlands']) assert.ok((await readFile(`out/art/${art}.webp`)).byteLength>1000);
- assert.ok(html.includes('50 ILLUSTRATED HIGHLIGHTS'));
+ const inahArt=JSON.parse(await readFile('content/inah-art.json','utf8'));
+ for(const art of Object.values(inahArt))assert.ok((await readFile(`out/art/${art.art}.webp`)).byteLength>1000);
+ assert.ok(html.includes('50 ILLUSTRATED HIGHLIGHTS')); 
  console.log('GitHub Pages export verified: homepage, linked bundles, 5,223 detailed records, 50 highlighted drawings and 2 regional studies.');
 }finally{await new Promise(resolve=>server.server.close(resolve));}
