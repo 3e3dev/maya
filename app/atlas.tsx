@@ -45,15 +45,35 @@ export default function Atlas() {
      instance.on('moveend',()=>{if(disposed)return;setFlying(false);const b=instance!.getBounds();setViewCount(filteredRef.current.filter(s=>b.contains(s.coordinates)).length);});
      instance.on('load',()=>{
       if(disposed)return;const m=instance!;
-      m.addSource('sites',{type:'geojson',data:geojson(data)});
+      m.addSource('sites',{type:'geojson',data:geojson(data),cluster:true,clusterRadius:48,clusterMaxZoom:12});
       m.addSource('selected',{type:'geojson',data:geojson([])});
-      m.addLayer({id:'site-halo',type:'circle',source:'sites',filter:['<=',['get','rank'],2],paint:{'circle-radius':['interpolate',['linear'],['zoom'],5,7,12,12],'circle-color':'#fdfdf7','circle-opacity':0.9}});
-      m.addLayer({id:'site-dots',type:'circle',source:'sites',paint:{'circle-radius':['interpolate',['linear'],['zoom'],5,['case',['==',['get','rank'],1],4,['==',['get','rank'],2],3,1.7],12,['case',['<=',['get','rank'],2],6,4]],'circle-color':['case',['<=',['get','rank'],2],'#183f46','#54756d'],'circle-opacity':['case',['<=',['get','rank'],2],1,0.62],'circle-stroke-color':'#fdfdf9','circle-stroke-width':['interpolate',['linear'],['zoom'],5,0.5,12,1.6]}});
-      m.addLayer({id:'site-labels',type:'symbol',source:'sites',filter:['<=',['get','rank'],2],layout:{'text-field':['get','name'],'text-font':['Noto Sans Regular'],'text-size':['interpolate',['linear'],['zoom'],5,12,10,14],'text-anchor':'top','text-offset':[0,1],'text-optional':true},paint:{'text-color':'#173d43','text-halo-color':'#fbfcf7','text-halo-width':2}});
+      m.addLayer({id:'site-halo',type:'circle',source:'sites',filter:['all',['!', ['has','point_count']],['<=',['get','rank'],2]],paint:{'circle-radius':['interpolate',['linear'],['zoom'],5,7,12,12],'circle-color':'#fdfdf7','circle-opacity':0.9}});
+      m.addLayer({id:'site-dots',type:'circle',source:'sites',filter:['!', ['has','point_count']],paint:{'circle-radius':['interpolate',['linear'],['zoom'],5,['case',['==',['get','rank'],1],4,['==',['get','rank'],2],3,1.7],12,['case',['<=',['get','rank'],2],6,4]],'circle-color':['case',['<=',['get','rank'],2],'#183f46','#54756d'],'circle-opacity':['case',['<=',['get','rank'],2],1,0.62],'circle-stroke-color':'#fdfdf9','circle-stroke-width':['interpolate',['linear'],['zoom'],5,0.5,12,1.6]}});
+      m.addLayer({id:'site-labels',type:'symbol',source:'sites',filter:['all',['!', ['has','point_count']],['<=',['get','rank'],2]],layout:{'text-field':['get','name'],'text-font':['Noto Sans Regular'],'text-size':['interpolate',['linear'],['zoom'],5,12,10,14],'text-anchor':'top','text-offset':[0,1],'text-optional':true},paint:{'text-color':'#173d43','text-halo-color':'#fbfcf7','text-halo-width':2}});
+      m.addLayer({id:'site-clusters',type:'circle',source:'sites',filter:['has','point_count'],paint:{'circle-radius':['step',['get','point_count'],18,50,22,250,27],'circle-color':['step',['get','point_count'],'#487b77',50,'#356661',250,'#244e4c'],'circle-stroke-color':'#fcfdf9','circle-stroke-width':3,'circle-opacity':0.97}});
+      m.addLayer({id:'cluster-counts',type:'symbol',source:'sites',filter:['has','point_count'],layout:{'text-field':['get','point_count_abbreviated'],'text-font':['Noto Sans Bold'],'text-size':13,'text-allow-overlap':true,'text-ignore-placement':true},paint:{'text-color':'#ffffff'}});
       m.addLayer({id:'selected-halo',type:'circle',source:'selected',paint:{'circle-radius':19,'circle-color':'#b96843','circle-opacity':0.16,'circle-stroke-width':1,'circle-stroke-color':'#b96843'}});
       m.addLayer({id:'selected-point',type:'circle',source:'selected',paint:{'circle-radius':7,'circle-color':'#b96843','circle-stroke-width':3,'circle-stroke-color':'#fff'}});
-      m.on('click',e=>{const f=m.queryRenderedFeatures([[e.point.x-9,e.point.y-9],[e.point.x+9,e.point.y+9]],{layers:['site-dots','site-labels']});if(f.length){const chosen=data.find(s=>s.id===f[0].properties.id);if(chosen)selectRef.current(chosen);}});
-      m.on('mousemove',e=>{m.getCanvas().style.cursor=m.queryRenderedFeatures(e.point,{layers:['site-dots','site-labels']}).length?'pointer':'';});
+      let expansionRequest=0;
+      const clickableLayers=['selected-point','site-clusters','site-dots','site-labels'];
+      m.on('click',e=>{
+       const request=++expansionRequest;
+       const features=m.queryRenderedFeatures([[e.point.x-9,e.point.y-9],[e.point.x+9,e.point.y+9]],{layers:clickableLayers});
+       const feature=features[0];if(!feature)return;
+       if(feature.properties.cluster){
+        const source=m.getSource('sites') as GeoJSONSource;
+        const filteredAtClick=filteredRef.current;
+        const center=(feature.geometry as {type:'Point';coordinates:[number,number]}).coordinates;
+        void source.getClusterExpansionZoom(Number(feature.properties.cluster_id)).then(zoom=>{
+         if(disposed||request!==expansionRequest||filteredAtClick!==filteredRef.current)return;
+         closeSite();setMobileExplore(false);m.stop();
+         m.easeTo({center,zoom:Math.min(zoom+0.25,13),pitch:0,bearing:0,padding:{top:0,bottom:0,left:0,right:0},offset:window.innerWidth<760?[0,0]:[180,0],duration:reducedMotion()?0:1400});
+        }).catch(()=>{if(!disposed&&request===expansionRequest)setMapError('This group changed as the map updated. Select it again to zoom in.');});
+       }else{
+        const chosen=data.find(site=>site.id===feature.properties.id);if(chosen)selectRef.current(chosen);
+       }
+      });
+      m.on('mousemove',e=>{m.getCanvas().style.cursor=m.queryRenderedFeatures(e.point,{layers:clickableLayers}).length?'pointer':'';});
       setReady(true);const deep=data.find(s=>s.id===window.location.hash.slice(1));
       if(deep)selectRef.current(deep);else m.fitBounds([[-96.6,13.1],[-85.4,21.8]],{padding:window.innerWidth<760?{top:45,bottom:100,left:30,right:30}:{top:60,bottom:60,left:395,right:70},duration:0});
      });
@@ -79,11 +99,11 @@ export default function Atlas() {
     {sites.length>0&&!visible.length&&<p className="empty">No sites found. Try another name, country or region.</p>}
     {(query||all)&&matches.length>limit&&<Button className="more-button" variant="outline" onClick={()=>setLimit(limit+60)}>Show more sites ({matches.length-limit} remaining)</Button>}
    </div>
-   <div className="explorer-foot"><span className="mini-dot"/>Select a point. Journey into its story.</div>
+   <div className="explorer-foot"><span className="mini-dot"/>Select a group to zoom in, or a site for its story.</div>
   </aside>
   <div className="map-top-note"><span>MESOAMERICA</span><span>13°–22° N · 85°–97° W</span></div>
   <div className="map-controls"><Button size="icon" variant="outline" aria-label="Zoom in" onClick={()=>map.current?.zoomIn({duration:reducedMotion()?0:500})} disabled={!ready}><Plus/></Button><Button size="icon" variant="outline" aria-label="Zoom out" onClick={()=>map.current?.zoomOut({duration:reducedMotion()?0:500})} disabled={!ready}><Minus/></Button><Button size="icon" variant="outline" aria-label="Reset north" onClick={()=>map.current?.easeTo({bearing:0,pitch:0,duration:reducedMotion()?0:1000})} disabled={!ready}><Compass/></Button><Button size="icon" variant="outline" aria-label="Show entire atlas" onClick={overview} disabled={!ready}><LocateFixed/></Button></div>
-  <div className="map-legend"><span><i className="major-dot"/>Major & important</span><span><i/>Other recorded sites</span></div>
+  <div className="map-legend"><span><b className="cluster-key">12</b>Grouped sites</span><span><i className="major-dot"/>Major & important</span><span><i/>Other recorded sites</span></div>
   <div className="map-bottom"><span><Globe2 size={15}/>{viewCount.toLocaleString()} records in view</span><button onClick={overview}>Back to the whole world <ArrowUpRight size={14}/></button></div>
   <Button className="mobile-explore-button" onClick={()=>{closeSite();setMobileExplore(true);}}><Search/>Explore {sites.length.toLocaleString()} sites</Button>
   <Sheet modal={false} open={!!selected} onOpenChange={(open,details)=>{if(!open&&details.reason!=='outside-press')closeSite();}}>

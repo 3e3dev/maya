@@ -14,3 +14,5 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 
 .site-art figcaption{font-size:12px;letter-spacing:.6px;position:static;padding:7px 22px;margin:0;max-width:none;background:#f2f5ef;line-height:1.5}.site-row-text>span{font-size:13px}.detail-tags span{font-size:12px}.detail-body>.eyebrow{font-size:12px}.about-links a,.source-link,.detail-body summary{font-size:14px}@media(max-width:759px){.site-art{float:none;width:auto;margin:0}.site-art img{aspect-ratio:2.4}.site-art figcaption{font-size:12px;padding:6px 22px}.detail-body>.eyebrow{max-width:none;font-size:12px}}
+
+.map-legend .cluster-key{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;border-radius:50%;background:#356661;border:2px solid #fcfdf9;color:#fff;font-size:10px;font-weight:600}.explorer-foot{line-height:1.5}

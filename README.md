@@ -2,7 +2,7 @@
 
 Public site: https://3e3dev.github.io/maya/
 
-A light OpenStreetMap atlas of all 5,223 coordinate records in the MayaMap EAAMS dataset. MapLibre renders the complete point layer, with smooth fly-to transitions and accessible searchable site records. Phone layouts use a bottom detail sheet. Reduced-motion preferences are respected.
+A light OpenStreetMap atlas of all 5,223 coordinate records in the MayaMap EAAMS dataset. MapLibre groups nearby records into numbered clusters when zoomed out. Clicking a cluster smoothly expands it into smaller groups and individual site markers; selecting a site opens its illustrated notes and fly-to transition. The complete catalogue remains searchable. Phone layouts use a bottom detail sheet. Reduced-motion preferences are respected.
 
 ## Data and artwork
 
