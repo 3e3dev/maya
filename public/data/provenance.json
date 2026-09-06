@@ -1,0 +1,13 @@
+{
+  "source": "https://mayamap.org/data/maya_sites.geojson",
+  "atlas": "Electronic Atlas of Ancient Maya Sites (EAAMS)",
+  "compilers": [
+    "Walter Witschey",
+    "Clifford Brown"
+  ],
+  "retrieved": "2026-09-06",
+  "records": 5223,
+  "crs": "WGS84 (EPSG:4326)",
+  "sha256": "9c895b1b28355cc0f828d4908f782081a604202ad44d5e37c31bc6ddc0daebd4",
+  "notes": "All source records retained, including unspecified locations and the Nicaragua record. Coordinates preserved exactly. Rank values outside 1\u20135 are shown as unclassified. The atlas is a survey inventory, not a complete inventory of all Maya archaeology."
+}
