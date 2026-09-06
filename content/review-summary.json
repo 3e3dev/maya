@@ -1,0 +1,14 @@
+{
+  "reviewedAt": "2026-09-06",
+  "records": 5223,
+  "highlights": 50,
+  "sourcedProfiles": 134,
+  "surveyProfiles": 5089,
+  "sourceIndexUrl": "https://en.wikipedia.org/wiki/List_of_Maya_sites",
+  "sourceIndexEntries": 192,
+  "retrievedIndexEntries": 169,
+  "recordsWithOriginalNotes": 1088,
+  "method": "All original names, locations, ranks, notes and bibliographic fields were reviewed through a catalogue-wide source-index comparison. Name matches were checked against coordinates and regional context before attaching an original summary. Additional official UNESCO and INAH references and explicit aliases were reviewed for selected entries. Unresolved names, modern-town articles and conflicting locations were not automatically assigned histories. This is a bounded catalogue review, not an exhaustive search of all archaeological publications. Survey-only descriptions use source fields and calculated straight-line proximity, never inferred chronology or political affiliation.",
+  "coordinatePolicy": "All 5,223 original records and their full-precision coordinates are unchanged. Historical ranks are inventory categories, not ratings of cultural importance or present condition.",
+  "originalSitesSha256": "4b7f87ddb8120017f4b98656ebb70c463b7bfef6c95cffd15d0c76524c795d3d"
+}

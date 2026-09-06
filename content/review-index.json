@@ -1,0 +1,1779 @@
+[
+  {
+    "title": "El Baúl",
+    "url": "https://en.wikipedia.org/wiki/El_Baúl",
+    "candidates": [
+      "site-4997"
+    ],
+    "geo": "14.3803; -91.0108",
+    "retrieved": true
+  },
+  {
+    "title": "Becan",
+    "url": "https://en.wikipedia.org/wiki/Becan",
+    "candidates": [
+      "site-1228"
+    ],
+    "geo": "18.517; -89.467",
+    "retrieved": true
+  },
+  {
+    "title": "Bonampak",
+    "url": "https://en.wikipedia.org/wiki/Bonampak",
+    "candidates": [
+      "site-1233"
+    ],
+    "geo": "16.7040000; -91.0650000",
+    "retrieved": true
+  },
+  {
+    "title": "Calakmul",
+    "url": "https://en.wikipedia.org/wiki/Calakmul",
+    "candidates": [
+      "site-1224"
+    ],
+    "geo": "18.1053917; -89.8108278",
+    "retrieved": true
+  },
+  {
+    "title": "Caracol",
+    "url": "https://en.wikipedia.org/wiki/Caracol",
+    "candidates": [
+      "site-4950",
+      "site-4956"
+    ],
+    "geo": "16.76389; -89.11750",
+    "retrieved": true
+  },
+  {
+    "title": "Seibal",
+    "url": "https://en.wikipedia.org/wiki/Seibal",
+    "candidates": [
+      "site-1430",
+      "site-4985"
+    ],
+    "geo": "16.51167; -90.06111",
+    "retrieved": true
+  },
+  {
+    "title": "Chichen Itza",
+    "url": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "candidates": [
+      "site-4949"
+    ],
+    "geo": "20.68306; -88.56861",
+    "retrieved": true
+  },
+  {
+    "title": "Chunchucmil",
+    "url": "https://en.wikipedia.org/wiki/Chunchucmil",
+    "candidates": [
+      "site-4938"
+    ],
+    "geo": "20.6385611; -90.1902194",
+    "retrieved": true
+  },
+  {
+    "title": "Coba",
+    "url": "https://en.wikipedia.org/wiki/Coba",
+    "candidates": [
+      "site-2117"
+    ],
+    "geo": "20.49000; -87.73194",
+    "retrieved": true
+  },
+  {
+    "title": "Comalcalco (archaeological site)",
+    "url": "https://en.wikipedia.org/wiki/Comalcalco_(archaeological_site)",
+    "candidates": [
+      "site-4951"
+    ],
+    "geo": "18.27944; -93.20111",
+    "retrieved": true
+  },
+  {
+    "title": "Copán",
+    "url": "https://en.wikipedia.org/wiki/Copán",
+    "candidates": [
+      "site-4932"
+    ],
+    "geo": "14.83750; -89.14250",
+    "retrieved": true
+  },
+  {
+    "title": "Dos Pilas",
+    "url": "https://en.wikipedia.org/wiki/Dos_Pilas",
+    "candidates": [
+      "site-3353"
+    ],
+    "geo": "16.44583; -90.29583",
+    "retrieved": true
+  },
+  {
+    "title": "Dzibanche",
+    "url": "https://en.wikipedia.org/wiki/Dzibanche",
+    "candidates": [
+      "site-4945"
+    ],
+    "geo": "18.63861; -88.75917",
+    "retrieved": true
+  },
+  {
+    "title": "Dzibilchaltun",
+    "url": "https://en.wikipedia.org/wiki/Dzibilchaltun",
+    "candidates": [
+      "site-3756"
+    ],
+    "geo": "21.0910000; -89.5903000",
+    "retrieved": true
+  },
+  {
+    "title": "Iximche",
+    "url": "https://en.wikipedia.org/wiki/Iximche",
+    "candidates": [
+      "site-4993"
+    ],
+    "geo": "14.7358000; -90.9962000",
+    "retrieved": true
+  },
+  {
+    "title": "Ixkun",
+    "url": "https://en.wikipedia.org/wiki/Ixkun",
+    "candidates": [
+      "site-0869"
+    ],
+    "geo": "16.57361; -89.41111",
+    "retrieved": true
+  },
+  {
+    "title": "Kaminaljuyu",
+    "url": "https://en.wikipedia.org/wiki/Kaminaljuyu",
+    "candidates": [
+      "site-1194"
+    ],
+    "geo": "14.6328000; -90.5491000",
+    "retrieved": true
+  },
+  {
+    "title": "Mayapan",
+    "url": "https://en.wikipedia.org/wiki/Mayapan",
+    "candidates": [
+      "site-1232"
+    ],
+    "geo": "20.62944; -89.46056",
+    "retrieved": true
+  },
+  {
+    "title": "El Mirador",
+    "url": "https://en.wikipedia.org/wiki/El_Mirador",
+    "candidates": [
+      "site-3239",
+      "site-4964"
+    ],
+    "geo": "17.75500; -89.92056",
+    "retrieved": true
+  },
+  {
+    "title": "Naachtun",
+    "url": "https://en.wikipedia.org/wiki/Naachtun",
+    "candidates": [
+      "site-0903"
+    ],
+    "geo": "17.79778; -89.74028",
+    "retrieved": true
+  },
+  {
+    "title": "Nakbe",
+    "url": "https://en.wikipedia.org/wiki/Nakbe",
+    "candidates": [
+      "site-0901"
+    ],
+    "geo": "17.6828000; -89.8331000",
+    "retrieved": true
+  },
+  {
+    "title": "Naranjo",
+    "url": "https://en.wikipedia.org/wiki/Naranjo",
+    "candidates": [
+      "site-0702",
+      "site-0881",
+      "site-1522",
+      "site-3392"
+    ],
+    "geo": "17.1335972; -89.2621694",
+    "retrieved": true
+  },
+  {
+    "title": "Oxkintok",
+    "url": "https://en.wikipedia.org/wiki/Oxkintok",
+    "candidates": [
+      "site-5008"
+    ],
+    "geo": "20.5603416667; -89.95385",
+    "retrieved": true
+  },
+  {
+    "title": "Palenque",
+    "url": "https://en.wikipedia.org/wiki/Palenque",
+    "candidates": [
+      "site-1235"
+    ],
+    "geo": "17.48417; -92.04639",
+    "retrieved": true
+  },
+  {
+    "title": "El Perú (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/El_Perú_(Maya_site)",
+    "candidates": [
+      "site-0259"
+    ],
+    "geo": "17.2783; -90.3806",
+    "retrieved": true
+  },
+  {
+    "title": "Piedras Negras (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/Piedras_Negras_(Maya_site)",
+    "candidates": [
+      "site-4942"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Quiriguá",
+    "url": "https://en.wikipedia.org/wiki/Quiriguá",
+    "candidates": [
+      "site-4933"
+    ],
+    "geo": "15.26944; -89.04028",
+    "retrieved": true
+  },
+  {
+    "title": "Qʼumarkaj",
+    "url": "https://en.wikipedia.org/wiki/Qʼumarkaj",
+    "candidates": [
+      "site-4994"
+    ],
+    "geo": "15.023528; -91.1719889",
+    "retrieved": true
+  },
+  {
+    "title": "San Bartolo (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/San_Bartolo_(Maya_site)",
+    "candidates": [
+      "site-3371",
+      "site-3866"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Tikal",
+    "url": "https://en.wikipedia.org/wiki/Tikal",
+    "candidates": [
+      "site-0893"
+    ],
+    "geo": "17.22194; -89.62361",
+    "retrieved": true
+  },
+  {
+    "title": "Toniná",
+    "url": "https://en.wikipedia.org/wiki/Toniná",
+    "candidates": [
+      "site-5153"
+    ],
+    "geo": "16.9012194; -92.0096750",
+    "retrieved": true
+  },
+  {
+    "title": "Tulum",
+    "url": "https://en.wikipedia.org/wiki/Tulum",
+    "candidates": [
+      "site-3569"
+    ],
+    "geo": "20.21472; -87.42889",
+    "retrieved": true
+  },
+  {
+    "title": "Uxmal",
+    "url": "https://en.wikipedia.org/wiki/Uxmal",
+    "candidates": [
+      "site-4936"
+    ],
+    "geo": "20.35944; -89.77139",
+    "retrieved": true
+  },
+  {
+    "title": "Yaxchilan",
+    "url": "https://en.wikipedia.org/wiki/Yaxchilan",
+    "candidates": [
+      "site-1234"
+    ],
+    "geo": "16.900; -90.967",
+    "retrieved": true
+  },
+  {
+    "title": "Yaxha",
+    "url": "https://en.wikipedia.org/wiki/Yaxha",
+    "candidates": [
+      "site-1645",
+      "site-3171",
+      "site-4917",
+      "site-5032"
+    ],
+    "geo": "17.07750; -89.40250",
+    "retrieved": true
+  },
+  {
+    "title": "Takalik Abaj",
+    "url": "https://en.wikipedia.org/wiki/Takalik_Abaj",
+    "candidates": [
+      "site-0482"
+    ],
+    "geo": "14.64583; -91.73611",
+    "retrieved": true
+  },
+  {
+    "title": "Acanceh",
+    "url": "https://en.wikipedia.org/wiki/Acanceh",
+    "candidates": [
+      "site-2190"
+    ],
+    "geo": "20.813311; -89.452448",
+    "retrieved": true
+  },
+  {
+    "title": "Acanmul",
+    "url": "https://en.wikipedia.org/wiki/Acanmul",
+    "candidates": [
+      "site-3546"
+    ],
+    "geo": "19.90361; -90.32556",
+    "retrieved": true
+  },
+  {
+    "title": "Actun Tunichil Muknal",
+    "url": "https://en.wikipedia.org/wiki/Actun_Tunichil_Muknal",
+    "candidates": [
+      "site-2695"
+    ],
+    "geo": "17.13000; -88.86583",
+    "retrieved": true
+  },
+  {
+    "title": "Aguateca",
+    "url": "https://en.wikipedia.org/wiki/Aguateca",
+    "candidates": [
+      "site-4980"
+    ],
+    "geo": "16.3949778; -90.2043028",
+    "retrieved": true
+  },
+  {
+    "title": "Ake",
+    "url": "https://en.wikipedia.org/wiki/Ake",
+    "candidates": [
+      "site-4955"
+    ],
+    "geo": "20.950; -89.300",
+    "retrieved": true
+  },
+  {
+    "title": "Motul de San José",
+    "url": "https://en.wikipedia.org/wiki/Motul_de_San_José#Akte",
+    "candidates": [
+      "site-0874"
+    ],
+    "geo": "17.02639; -89.90139",
+    "retrieved": true
+  },
+  {
+    "title": "Altar de Sacrificios",
+    "url": "https://en.wikipedia.org/wiki/Altar_de_Sacrificios",
+    "candidates": [
+      "site-0275"
+    ],
+    "geo": "16.467; -90.533",
+    "retrieved": true
+  },
+  {
+    "title": "Altun Ha",
+    "url": "https://en.wikipedia.org/wiki/Altun_Ha",
+    "candidates": [
+      "site-4954"
+    ],
+    "geo": "17.7639500; -88.3470611",
+    "retrieved": true
+  },
+  {
+    "title": "La Amelia",
+    "url": "https://en.wikipedia.org/wiki/La_Amelia",
+    "candidates": [
+      "site-0278"
+    ],
+    "geo": "16.52639; -90.42278",
+    "retrieved": true
+  },
+  {
+    "title": "Arroyo de Piedra",
+    "url": "https://en.wikipedia.org/wiki/Arroyo_de_Piedra",
+    "candidates": [
+      "site-3354"
+    ],
+    "geo": "16.46; -90.26",
+    "retrieved": true
+  },
+  {
+    "title": "Baking Pot",
+    "url": "https://en.wikipedia.org/wiki/Baking_Pot",
+    "candidates": [
+      "site-3757"
+    ],
+    "geo": "17.20139; -89.01000",
+    "retrieved": true
+  },
+  {
+    "title": "Bakna",
+    "url": "https://en.wikipedia.org/wiki/Bakna",
+    "candidates": [
+      "site-0991"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Balberta",
+    "url": "https://en.wikipedia.org/wiki/Balberta",
+    "candidates": [
+      "site-0587"
+    ],
+    "geo": "14.08444; -90.96972",
+    "retrieved": true
+  },
+  {
+    "title": "Balamku",
+    "url": "https://en.wikipedia.org/wiki/Balamku",
+    "candidates": [
+      "site-1225"
+    ],
+    "geo": "18.56028; -89.94444",
+    "retrieved": true
+  },
+  {
+    "title": "Bejucal (Mesoamerican site)",
+    "url": "https://en.wikipedia.org/wiki/Bejucal_(Mesoamerican_site)",
+    "candidates": [
+      "site-1988",
+      "site-2742"
+    ],
+    "geo": "17.42; -89.67",
+    "retrieved": true
+  },
+  {
+    "title": "Blackman Eddy",
+    "url": "https://en.wikipedia.org/wiki/Blackman_Eddy",
+    "candidates": [
+      "site-3326"
+    ],
+    "geo": "17.21667; -88.91667",
+    "retrieved": true
+  },
+  {
+    "title": "Bolonchen",
+    "url": "https://en.wikipedia.org/wiki/Bolonchen",
+    "candidates": [
+      "site-1078"
+    ],
+    "geo": "20.00417; -89.85944",
+    "retrieved": true
+  },
+  {
+    "title": "Motul de San José",
+    "url": "https://en.wikipedia.org/wiki/Motul_de_San_José#Akte",
+    "candidates": [
+      "site-0874"
+    ],
+    "geo": "17.02639; -89.90139",
+    "retrieved": true
+  },
+  {
+    "title": "Cahal Pech",
+    "url": "https://en.wikipedia.org/wiki/Cahal_Pech",
+    "candidates": [
+      "site-4989"
+    ],
+    "geo": "17.1457; -89.0741",
+    "retrieved": true
+  },
+  {
+    "title": "Campeche",
+    "url": "https://en.wikipedia.org/wiki/Campeche",
+    "candidates": [
+      "site-5151"
+    ],
+    "geo": "19.000; -90.400",
+    "retrieved": true
+  },
+  {
+    "title": "Cancuen",
+    "url": "https://en.wikipedia.org/wiki/Cancuen",
+    "candidates": [
+      "site-0284"
+    ],
+    "geo": "16.0130583; -90.0403417",
+    "retrieved": true
+  },
+  {
+    "title": "Caracol, Belize",
+    "url": "https://en.wikipedia.org/wiki/Caracol,_Belize",
+    "candidates": [
+      "site-4950",
+      "site-4956"
+    ],
+    "geo": "16.76389; -89.11750",
+    "retrieved": true
+  },
+  {
+    "title": "El Caribe",
+    "url": "https://en.wikipedia.org/wiki/El_Caribe",
+    "candidates": [
+      "site-0280"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Casa Blanca, El Salvador",
+    "url": "https://en.wikipedia.org/wiki/Casa_Blanca,_El_Salvador",
+    "candidates": [
+      "site-4309"
+    ],
+    "geo": "13.9894000; -89.6725444",
+    "retrieved": true
+  },
+  {
+    "title": "El Cayo (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/El_Cayo_(Maya_site)",
+    "candidates": [
+      "site-1435"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Cerro Quiac",
+    "url": "https://en.wikipedia.org/wiki/Cerro_Quiac",
+    "candidates": [
+      "site-0444"
+    ],
+    "geo": "14.838993; -91.440715",
+    "retrieved": true
+  },
+  {
+    "title": "Cerros",
+    "url": "https://en.wikipedia.org/wiki/Cerros",
+    "candidates": [
+      "site-4972"
+    ],
+    "geo": "18.35833; -88.35194",
+    "retrieved": true
+  },
+  {
+    "title": "Sayil",
+    "url": "https://en.wikipedia.org/wiki/Sayil",
+    "candidates": [
+      "site-4937"
+    ],
+    "geo": "20.1780000; -89.65250",
+    "retrieved": true
+  },
+  {
+    "title": "Chacchoben",
+    "url": "https://en.wikipedia.org/wiki/Chacchoben",
+    "candidates": [
+      "site-2069"
+    ],
+    "geo": "19.0008167; -88.2323806",
+    "retrieved": true
+  },
+  {
+    "title": "Chacmultun",
+    "url": "https://en.wikipedia.org/wiki/Chacmultun",
+    "candidates": [
+      "site-5010"
+    ],
+    "geo": "20.17139; -89.34472",
+    "retrieved": true
+  },
+  {
+    "title": "Chactún",
+    "url": "https://en.wikipedia.org/wiki/Chactún",
+    "candidates": [
+      "site-4646"
+    ],
+    "geo": "18.721333; -89.526000",
+    "retrieved": true
+  },
+  {
+    "title": "Motul de San José",
+    "url": "https://en.wikipedia.org/wiki/Motul_de_San_José#Akte",
+    "candidates": [
+      "site-0874"
+    ],
+    "geo": "17.02639; -89.90139",
+    "retrieved": true
+  },
+  {
+    "title": "El Chal",
+    "url": "https://en.wikipedia.org/wiki/El_Chal",
+    "candidates": [
+      "site-0872"
+    ],
+    "geo": "16.63333; -89.65000",
+    "retrieved": true
+  },
+  {
+    "title": "Chancala",
+    "url": "https://en.wikipedia.org/wiki/Chancala",
+    "candidates": [
+      "site-1494"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Chiapa de Corzo (Mesoamerican site)",
+    "url": "https://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site)",
+    "candidates": [
+      "site-1765"
+    ],
+    "geo": "16.7027833; -93.0040083",
+    "retrieved": true
+  },
+  {
+    "title": "Chicanna",
+    "url": "https://en.wikipedia.org/wiki/Chicanna",
+    "candidates": [
+      "site-1227"
+    ],
+    "geo": "18.5069; -89.4863",
+    "retrieved": true
+  },
+  {
+    "title": "Chinikiha",
+    "url": "https://en.wikipedia.org/wiki/Chinikiha",
+    "candidates": [
+      "site-2739"
+    ],
+    "geo": "17.41972; -91.65167",
+    "retrieved": true
+  },
+  {
+    "title": "Chinkultic",
+    "url": "https://en.wikipedia.org/wiki/Chinkultic",
+    "candidates": [
+      "site-4958"
+    ],
+    "geo": "16.12611; -91.78333",
+    "retrieved": true
+  },
+  {
+    "title": "Chocolá",
+    "url": "https://en.wikipedia.org/wiki/Chocolá",
+    "candidates": [
+      "site-0501"
+    ],
+    "geo": "14.616944; -91.428333",
+    "retrieved": true
+  },
+  {
+    "title": "Chunhuhub",
+    "url": "https://en.wikipedia.org/wiki/Chunhuhub",
+    "candidates": [
+      "site-0124",
+      "site-0966"
+    ],
+    "geo": "19.58528; -88.59222",
+    "retrieved": true
+  },
+  {
+    "title": "Chunlimon",
+    "url": "https://en.wikipedia.org/wiki/Chunlimon",
+    "candidates": [
+      "site-0073"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Chutixtiox",
+    "url": "https://en.wikipedia.org/wiki/Chutixtiox",
+    "candidates": [
+      "site-0217"
+    ],
+    "geo": "15.274500; -91.1227000",
+    "retrieved": true
+  },
+  {
+    "title": "Cihuatán",
+    "url": "https://en.wikipedia.org/wiki/Cihuatán",
+    "candidates": [
+      "site-4998"
+    ],
+    "geo": "13.981; -89.165",
+    "retrieved": true
+  },
+  {
+    "title": "Cival",
+    "url": "https://en.wikipedia.org/wiki/Cival",
+    "candidates": [
+      "site-1203"
+    ],
+    "geo": "17.36750; -89.25917",
+    "retrieved": true
+  },
+  {
+    "title": "Comitán",
+    "url": "https://en.wikipedia.org/wiki/Comitán",
+    "candidates": [
+      "site-1605"
+    ],
+    "geo": "16.25000; -92.13333",
+    "retrieved": true
+  },
+  {
+    "title": "La Corona",
+    "url": "https://en.wikipedia.org/wiki/La_Corona",
+    "candidates": [
+      "site-0592",
+      "site-4622"
+    ],
+    "geo": "17.51972; -90.37222",
+    "retrieved": true
+  },
+  {
+    "title": "Cuca (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/Cuca_(Maya_site)",
+    "candidates": [
+      "site-2187"
+    ],
+    "geo": "20.92639; -89.41194",
+    "retrieved": true
+  },
+  {
+    "title": "Cuello",
+    "url": "https://en.wikipedia.org/wiki/Cuello",
+    "candidates": [
+      "site-4988"
+    ],
+    "geo": "18.067; -88.600",
+    "retrieved": true
+  },
+  {
+    "title": "Dzehkabtun",
+    "url": "https://en.wikipedia.org/wiki/Dzehkabtun",
+    "candidates": [
+      "site-1005"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Dzibilnocac",
+    "url": "https://en.wikipedia.org/wiki/Dzibilnocac",
+    "candidates": [
+      "site-1229"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Dzitbalché",
+    "url": "https://en.wikipedia.org/wiki/Dzitbalché",
+    "candidates": [
+      "site-3785"
+    ],
+    "geo": "20.317; -90.050",
+    "retrieved": true
+  },
+  {
+    "title": "Edzna",
+    "url": "https://en.wikipedia.org/wiki/Edzna",
+    "candidates": [
+      "site-4948"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Ekʼ Balam",
+    "url": "https://en.wikipedia.org/wiki/Ekʼ_Balam",
+    "candidates": [
+      "site-1209",
+      "site-3574"
+    ],
+    "geo": "20.89111; -88.13639",
+    "retrieved": true
+  },
+  {
+    "title": "Nojpetén",
+    "url": "https://en.wikipedia.org/wiki/Nojpetén",
+    "candidates": [
+      "site-2758",
+      "site-2891"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Hochob",
+    "url": "https://en.wikipedia.org/wiki/Hochob",
+    "candidates": [
+      "site-5004"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Holmul",
+    "url": "https://en.wikipedia.org/wiki/Holmul",
+    "candidates": [
+      "site-1205"
+    ],
+    "geo": "17.300; -89.256",
+    "retrieved": true
+  },
+  {
+    "title": "Holtun",
+    "url": "https://en.wikipedia.org/wiki/Holtun",
+    "candidates": [
+      "site-2259",
+      "site-2878"
+    ],
+    "geo": "16.97361; -89.42556",
+    "retrieved": true
+  },
+  {
+    "title": "Hormiguero, Mexico",
+    "url": "https://en.wikipedia.org/wiki/Hormiguero,_Mexico",
+    "candidates": [
+      "site-1226"
+    ],
+    "geo": "18.4033; -89.4850",
+    "retrieved": true
+  },
+  {
+    "title": "Ichkabal",
+    "url": "https://en.wikipedia.org/wiki/Ichkabal",
+    "candidates": [
+      "site-5187"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Ichmul",
+    "url": "https://en.wikipedia.org/wiki/Ichmul",
+    "candidates": [
+      "site-1302",
+      "site-3836"
+    ],
+    "geo": "20.167; -88.567",
+    "retrieved": true
+  },
+  {
+    "title": "Itzan",
+    "url": "https://en.wikipedia.org/wiki/Itzan",
+    "candidates": [
+      "site-0279"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Ixlu",
+    "url": "https://en.wikipedia.org/wiki/Ixlu",
+    "candidates": [
+      "site-3567"
+    ],
+    "geo": "16.979831; -89.686725",
+    "retrieved": true
+  },
+  {
+    "title": "Ixtonton",
+    "url": "https://en.wikipedia.org/wiki/Ixtonton",
+    "candidates": [
+      "site-3562"
+    ],
+    "geo": "16.5043694; -89.3902472",
+    "retrieved": true
+  },
+  {
+    "title": "Ixtutz",
+    "url": "https://en.wikipedia.org/wiki/Ixtutz",
+    "candidates": [
+      "site-0867"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Izamal",
+    "url": "https://en.wikipedia.org/wiki/Izamal",
+    "candidates": [
+      "site-4769"
+    ],
+    "geo": "20.93139; -89.01778",
+    "retrieved": true
+  },
+  {
+    "title": "Izapa",
+    "url": "https://en.wikipedia.org/wiki/Izapa",
+    "candidates": [
+      "site-1946"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Jonuta",
+    "url": "https://en.wikipedia.org/wiki/Jonuta",
+    "candidates": [
+      "site-3686"
+    ],
+    "geo": "18.083; -92.133",
+    "retrieved": true
+  },
+  {
+    "title": "La Joyanca",
+    "url": "https://en.wikipedia.org/wiki/La_Joyanca",
+    "candidates": [
+      "site-2908"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Kabah (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/Kabah_(Maya_site)",
+    "candidates": [
+      "site-4935"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Kinal",
+    "url": "https://en.wikipedia.org/wiki/Kinal",
+    "candidates": [
+      "site-0905"
+    ],
+    "geo": "17.70000; -89.24167",
+    "retrieved": true
+  },
+  {
+    "title": "Kiuic",
+    "url": "https://en.wikipedia.org/wiki/Kiuic",
+    "candidates": [
+      "site-2493"
+    ],
+    "geo": "20.09285; -89.56376",
+    "retrieved": true
+  },
+  {
+    "title": "Kohunlich",
+    "url": "https://en.wikipedia.org/wiki/Kohunlich",
+    "candidates": [
+      "site-1193"
+    ],
+    "geo": "18.41917; -88.79000",
+    "retrieved": true
+  },
+  {
+    "title": "Komchen",
+    "url": "https://en.wikipedia.org/wiki/Komchen",
+    "candidates": [
+      "site-2103",
+      "site-3000",
+      "site-3047"
+    ],
+    "geo": "21.10361; -89.66250",
+    "retrieved": true
+  },
+  {
+    "title": "Labna",
+    "url": "https://en.wikipedia.org/wiki/Labna",
+    "candidates": [
+      "site-3555"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Lacanha",
+    "url": "https://en.wikipedia.org/wiki/Lacanha",
+    "candidates": [
+      "site-4040"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Lamanai",
+    "url": "https://en.wikipedia.org/wiki/Lamanai",
+    "candidates": [
+      "site-4943"
+    ],
+    "geo": "17.75250; -88.65444",
+    "retrieved": true
+  },
+  {
+    "title": "Limones (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/Limones_(Maya_site)",
+    "candidates": [
+      "site-0022"
+    ],
+    "geo": "19.02134; -88.11021",
+    "retrieved": true
+  },
+  {
+    "title": "Loltun",
+    "url": "https://en.wikipedia.org/wiki/Loltun",
+    "candidates": [
+      "site-4931"
+    ],
+    "geo": "20.25278; -89.45639",
+    "retrieved": true
+  },
+  {
+    "title": "Louisville, Belize",
+    "url": "https://en.wikipedia.org/wiki/Louisville,_Belize",
+    "candidates": [
+      "site-2033"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Lubaantun",
+    "url": "https://en.wikipedia.org/wiki/Lubaantun",
+    "candidates": [
+      "site-5036"
+    ],
+    "geo": "16.28165; -88.95945",
+    "retrieved": true
+  },
+  {
+    "title": "Machaquila",
+    "url": "https://en.wikipedia.org/wiki/Machaquila",
+    "candidates": [
+      "site-0864"
+    ],
+    "geo": "16.32; -89.86",
+    "retrieved": true
+  },
+  {
+    "title": "Maní, Yucatán",
+    "url": "https://en.wikipedia.org/wiki/Maní,_Yucatán",
+    "candidates": [
+      "site-2454"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "La Mar",
+    "url": "https://en.wikipedia.org/wiki/La_Mar",
+    "candidates": [
+      "site-1433"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Maxcanu",
+    "url": "https://en.wikipedia.org/wiki/Maxcanu",
+    "candidates": [
+      "site-2126"
+    ],
+    "geo": "20.583; -89.983",
+    "retrieved": true
+  },
+  {
+    "title": "El Meco",
+    "url": "https://en.wikipedia.org/wiki/El_Meco",
+    "candidates": [
+      "site-3543"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "La Milpa",
+    "url": "https://en.wikipedia.org/wiki/La_Milpa",
+    "candidates": [
+      "site-3597"
+    ],
+    "geo": "17.7833; -88.9500",
+    "retrieved": true
+  },
+  {
+    "title": "Mixco Viejo",
+    "url": "https://en.wikipedia.org/wiki/Mixco_Viejo",
+    "candidates": [
+      "site-0710"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Monte Alto culture",
+    "url": "https://en.wikipedia.org/wiki/Monte_Alto_culture",
+    "candidates": [
+      "site-0609"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Motul de San José",
+    "url": "https://en.wikipedia.org/wiki/Motul_de_San_José#Akte",
+    "candidates": [
+      "site-0874"
+    ],
+    "geo": "17.02639; -89.90139",
+    "retrieved": true
+  },
+  {
+    "title": "Moxviquil",
+    "url": "https://en.wikipedia.org/wiki/Moxviquil",
+    "candidates": [
+      "site-1721"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Muyil",
+    "url": "https://en.wikipedia.org/wiki/Muyil",
+    "candidates": [
+      "site-2116"
+    ],
+    "geo": "20.07778; -87.61528",
+    "retrieved": true
+  },
+  {
+    "title": "Mirador (Mesoamerican Site)",
+    "url": "https://en.wikipedia.org/wiki/Mirador_(Mesoamerican_Site)",
+    "candidates": [
+      "site-0682",
+      "site-1783",
+      "site-3056"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Nadzca'an",
+    "url": "https://en.wikipedia.org/wiki/Nadzca'an",
+    "candidates": [
+      "site-4962"
+    ],
+    "geo": "18.60694; -89.85167",
+    "retrieved": true
+  },
+  {
+    "title": "Naj Tunich",
+    "url": "https://en.wikipedia.org/wiki/Naj_Tunich",
+    "candidates": [
+      "site-0868"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Nakum",
+    "url": "https://en.wikipedia.org/wiki/Nakum",
+    "candidates": [
+      "site-5030"
+    ],
+    "geo": "17.1800; -89.3600",
+    "retrieved": true
+  },
+  {
+    "title": "Naranjo, Guatemala",
+    "url": "https://en.wikipedia.org/wiki/Naranjo,_Guatemala",
+    "candidates": [
+      "site-0702",
+      "site-0881",
+      "site-1522",
+      "site-3392"
+    ],
+    "geo": "17.1335972; -89.2621694",
+    "retrieved": true
+  },
+  {
+    "title": "Nebaj",
+    "url": "https://en.wikipedia.org/wiki/Nebaj",
+    "candidates": [
+      "site-0201"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Nim Li Punit",
+    "url": "https://en.wikipedia.org/wiki/Nim_Li_Punit",
+    "candidates": [
+      "site-4991"
+    ],
+    "geo": "16.317; -88.800",
+    "retrieved": true
+  },
+  {
+    "title": "Nohmul",
+    "url": "https://en.wikipedia.org/wiki/Nohmul",
+    "candidates": [
+      "site-4987"
+    ],
+    "geo": "18.2173556; -88.5847306",
+    "retrieved": true
+  },
+  {
+    "title": "Pajaral",
+    "url": "https://en.wikipedia.org/wiki/Pajaral",
+    "candidates": [
+      "site-0260"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "El Palmar (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/El_Palmar_(Maya_site)",
+    "candidates": [
+      "site-1343",
+      "site-5017",
+      "site-5079"
+    ],
+    "geo": "18.07611; -89.34278",
+    "retrieved": true
+  },
+  {
+    "title": "El Perú, Guatemala",
+    "url": "https://en.wikipedia.org/wiki/El_Perú,_Guatemala",
+    "candidates": [
+      "site-0259"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "El Pilar",
+    "url": "https://en.wikipedia.org/wiki/El_Pilar",
+    "candidates": [
+      "site-0555",
+      "site-2701",
+      "site-2746"
+    ],
+    "geo": "17.25667; -89.15528",
+    "retrieved": true
+  },
+  {
+    "title": "Plan de Ayutla (Maya Site)",
+    "url": "https://en.wikipedia.org/wiki/Plan_de_Ayutla_(Maya_Site)",
+    "candidates": [
+      "site-5028"
+    ],
+    "geo": "16.7850; -91.2799",
+    "retrieved": true
+  },
+  {
+    "title": "El Portón",
+    "url": "https://en.wikipedia.org/wiki/El_Portón",
+    "candidates": [
+      "site-5202"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "El Porvenir (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/El_Porvenir_(Maya_site)",
+    "candidates": [
+      "site-0270",
+      "site-0401",
+      "site-1137",
+      "site-1192",
+      "site-1529",
+      "site-1844",
+      "site-1990",
+      "site-2791",
+      "site-4105"
+    ],
+    "geo": "17.1834139; -91.2787889",
+    "retrieved": true
+  },
+  {
+    "title": "El Puente (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/El_Puente_(Maya_site)",
+    "candidates": [
+      "site-4358"
+    ],
+    "geo": "15.11000; -88.79167",
+    "retrieved": true
+  },
+  {
+    "title": "Pusilha",
+    "url": "https://en.wikipedia.org/wiki/Pusilha",
+    "candidates": [
+      "site-0070"
+    ],
+    "geo": "16.1046250; -89.2428944",
+    "retrieved": true
+  },
+  {
+    "title": "Rio Azul",
+    "url": "https://en.wikipedia.org/wiki/Rio_Azul",
+    "candidates": [
+      "site-2631"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Rio Bec",
+    "url": "https://en.wikipedia.org/wiki/Rio_Bec",
+    "candidates": [
+      "site-1806"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Sacul, El Petén",
+    "url": "https://en.wikipedia.org/wiki/Sacul,_El_Petén",
+    "candidates": [
+      "site-0707",
+      "site-3327"
+    ],
+    "geo": "16.583; -89.300",
+    "retrieved": true
+  },
+  {
+    "title": "Salinas de los Nueve Cerros",
+    "url": "https://en.wikipedia.org/wiki/Salinas_de_los_Nueve_Cerros",
+    "candidates": [
+      "site-0804"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "San Andrés, El Salvador",
+    "url": "https://en.wikipedia.org/wiki/San_Andrés,_El_Salvador",
+    "candidates": [
+      "site-0669",
+      "site-2452",
+      "site-4076",
+      "site-4406",
+      "site-4733",
+      "site-4999"
+    ],
+    "geo": "13.80056; -89.38944",
+    "retrieved": true
+  },
+  {
+    "title": "San Clemente, El Petén",
+    "url": "https://en.wikipedia.org/wiki/San_Clemente,_El_Petén",
+    "candidates": [
+      "site-3558",
+      "site-4869"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "San Gervasio (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/San_Gervasio_(Maya_site)",
+    "candidates": [
+      "site-4957"
+    ],
+    "geo": "20.500351; -86.848297",
+    "retrieved": true
+  },
+  {
+    "title": "Santa Elena Poco Uinic",
+    "url": "https://en.wikipedia.org/wiki/Santa_Elena_Poco_Uinic",
+    "candidates": [
+      "site-1461"
+    ],
+    "geo": "16.587477000; -91.739021000",
+    "retrieved": true
+  },
+  {
+    "title": "Santa Rosa Xtampak",
+    "url": "https://en.wikipedia.org/wiki/Santa_Rosa_Xtampak",
+    "candidates": [
+      "site-3552"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Sayil",
+    "url": "https://en.wikipedia.org/wiki/Sayil",
+    "candidates": [
+      "site-4937"
+    ],
+    "geo": "20.1780000; -89.65250",
+    "retrieved": true
+  },
+  {
+    "title": "Simojovel",
+    "url": "https://en.wikipedia.org/wiki/Simojovel",
+    "candidates": [
+      "site-1709"
+    ],
+    "geo": "17.150; -92.717",
+    "retrieved": true
+  },
+  {
+    "title": "La Sufricaya",
+    "url": "https://en.wikipedia.org/wiki/La_Sufricaya",
+    "candidates": [
+      "site-1204"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Tamarindito",
+    "url": "https://en.wikipedia.org/wiki/Tamarindito",
+    "candidates": [
+      "site-3355"
+    ],
+    "geo": "16.45; -90.23",
+    "retrieved": true
+  },
+  {
+    "title": "Tayasal",
+    "url": "https://en.wikipedia.org/wiki/Tayasal",
+    "candidates": [
+      "site-0873"
+    ],
+    "geo": "16.92972; -89.89167",
+    "retrieved": true
+  },
+  {
+    "title": "Tazumal",
+    "url": "https://en.wikipedia.org/wiki/Tazumal",
+    "candidates": [
+      "site-5001"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "El Temblor",
+    "url": "https://en.wikipedia.org/wiki/El_Temblor",
+    "candidates": [
+      "site-1167"
+    ],
+    "geo": "17.06167; -89.61167",
+    "retrieved": true
+  },
+  {
+    "title": "Tenam Puente",
+    "url": "https://en.wikipedia.org/wiki/Tenam_Puente",
+    "candidates": [
+      "site-2810"
+    ],
+    "geo": "16.13306; -92.09722",
+    "retrieved": true
+  },
+  {
+    "title": "Tenam Rosario",
+    "url": "https://en.wikipedia.org/wiki/Tenam_Rosario",
+    "candidates": [
+      "site-1623"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "El Tintal",
+    "url": "https://en.wikipedia.org/wiki/El_Tintal",
+    "candidates": [
+      "site-0899"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Topoxte",
+    "url": "https://en.wikipedia.org/wiki/Topoxte",
+    "candidates": [
+      "site-0878"
+    ],
+    "geo": "17.0659750; -89.4196167",
+    "retrieved": true
+  },
+  {
+    "title": "Tortuguero (Maya site)",
+    "url": "https://en.wikipedia.org/wiki/Tortuguero_(Maya_site)",
+    "candidates": [
+      "site-2688"
+    ],
+    "geo": "17.68694; -92.56806",
+    "retrieved": true
+  },
+  {
+    "title": "Tres Islas",
+    "url": "https://en.wikipedia.org/wiki/Tres_Islas",
+    "candidates": [
+      "site-0283"
+    ],
+    "geo": "16.200; -90.050",
+    "retrieved": true
+  },
+  {
+    "title": "Motul de San José",
+    "url": "https://en.wikipedia.org/wiki/Motul_de_San_José#Akte",
+    "candidates": [
+      "site-0874"
+    ],
+    "geo": "17.02639; -89.90139",
+    "retrieved": true
+  },
+  {
+    "title": "Tzendales",
+    "url": "https://en.wikipedia.org/wiki/Tzendales",
+    "candidates": [
+      "site-0056"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Uaxactun",
+    "url": "https://en.wikipedia.org/wiki/Uaxactun",
+    "candidates": [
+      "site-3568"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Uaymil",
+    "url": "https://en.wikipedia.org/wiki/Uaymil",
+    "candidates": [
+      "site-1075"
+    ],
+    "geo": "20.4549; -90.4775",
+    "retrieved": true
+  },
+  {
+    "title": "Uxbenka",
+    "url": "https://en.wikipedia.org/wiki/Uxbenka",
+    "candidates": [
+      "site-4992"
+    ],
+    "geo": "16.2367; -89.0783",
+    "retrieved": true
+  },
+  {
+    "title": "Uxul",
+    "url": "https://en.wikipedia.org/wiki/Uxul",
+    "candidates": [
+      "site-5127"
+    ],
+    "geo": "17.8567; -89.9817",
+    "retrieved": true
+  },
+  {
+    "title": "Xcaret",
+    "url": "https://en.wikipedia.org/wiki/Xcaret",
+    "candidates": [
+      "site-4967"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Xelha",
+    "url": "https://en.wikipedia.org/wiki/Xelha",
+    "candidates": [
+      "site-2119"
+    ],
+    "geo": "20.31972; -87.36694",
+    "retrieved": true
+  },
+  {
+    "title": "Xicalango",
+    "url": "https://en.wikipedia.org/wiki/Xicalango",
+    "candidates": [
+      "site-3719",
+      "site-3781"
+    ],
+    "geo": "18.633; -91.833",
+    "retrieved": true
+  },
+  {
+    "title": "Xkipche",
+    "url": "https://en.wikipedia.org/wiki/Xkipche",
+    "candidates": [
+      "site-2467"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Xlapak",
+    "url": "https://en.wikipedia.org/wiki/Xlapak",
+    "candidates": [
+      "site-2390",
+      "site-2421",
+      "site-3536"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Xnaheb",
+    "url": "https://en.wikipedia.org/wiki/Xnaheb",
+    "candidates": [
+      "site-2805"
+    ],
+    "geo": "16.3167; -88.8",
+    "retrieved": true
+  },
+  {
+    "title": "Xpuhil",
+    "url": "https://en.wikipedia.org/wiki/Xpuhil",
+    "candidates": [
+      "site-1223"
+    ],
+    "geo": "18.510581; -89.405869",
+    "retrieved": true
+  },
+  {
+    "title": "Xtampak",
+    "url": "https://en.wikipedia.org/wiki/Xtampak",
+    "candidates": [
+      "site-0979",
+      "site-2524"
+    ],
+    "geo": "19.7713; -89.5981",
+    "retrieved": true
+  },
+  {
+    "title": "Xultun",
+    "url": "https://en.wikipedia.org/wiki/Xultun",
+    "candidates": [
+      "site-0907"
+    ],
+    "geo": "17.5; -89.4",
+    "retrieved": true
+  },
+  {
+    "title": "Xunantunich",
+    "url": "https://en.wikipedia.org/wiki/Xunantunich",
+    "candidates": [
+      "site-2474",
+      "site-4953"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Xupa",
+    "url": "https://en.wikipedia.org/wiki/Xupa",
+    "candidates": [
+      "site-1495"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Yalbac",
+    "url": "https://en.wikipedia.org/wiki/Yalbac",
+    "candidates": [
+      "site-3325"
+    ],
+    "geo": "17.383; -88.950",
+    "retrieved": true
+  },
+  {
+    "title": "Yaxcopoil",
+    "url": "https://en.wikipedia.org/wiki/Yaxcopoil",
+    "candidates": [
+      "site-2184"
+    ],
+    "geo": "20.8207; -89.7421",
+    "retrieved": true
+  },
+  {
+    "title": "Yaxuna",
+    "url": "https://en.wikipedia.org/wiki/Yaxuna",
+    "candidates": [
+      "site-0099"
+    ],
+    "geo": "20.450; -88.667",
+    "retrieved": true
+  },
+  {
+    "title": "Yoʼokop",
+    "url": "https://en.wikipedia.org/wiki/Yoʼokop",
+    "candidates": [
+      "site-2707"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Yula",
+    "url": "https://en.wikipedia.org/wiki/Yula",
+    "candidates": [
+      "site-2252"
+    ],
+    "geo": null,
+    "retrieved": true
+  },
+  {
+    "title": "Zacpeten",
+    "url": "https://en.wikipedia.org/wiki/Zacpeten",
+    "candidates": [
+      "site-2765"
+    ],
+    "geo": null,
+    "retrieved": false
+  },
+  {
+    "title": "Zaculeu",
+    "url": "https://en.wikipedia.org/wiki/Zaculeu",
+    "candidates": [
+      "site-4995"
+    ],
+    "geo": "15.3337944; -91.4927444",
+    "retrieved": true
+  },
+  {
+    "title": "Zapote Bobal",
+    "url": "https://en.wikipedia.org/wiki/Zapote_Bobal",
+    "candidates": [
+      "site-2764"
+    ],
+    "geo": "17.3066; -90.3064",
+    "retrieved": true
+  },
+  {
+    "title": "El Zotz",
+    "url": "https://en.wikipedia.org/wiki/El_Zotz",
+    "candidates": [
+      "site-1201"
+    ],
+    "geo": null,
+    "retrieved": false
+  }
+]

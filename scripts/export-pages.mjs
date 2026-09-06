@@ -33,6 +33,14 @@ try {
  const sites=JSON.parse(await readFile('out/data/sites.json','utf8'));
  assert.equal(sites.length,5223);assert.equal(new Set(sites.map(s=>s.id)).size,5223);
  for(const site of sites)assert.ok(site.coordinates.length===2&&site.coordinates.every(Number.isFinite));
- for(const art of ['chichen-itza','tikal','palenque','uxmal','copan','tulum','lowlands','highlands']) assert.ok((await readFile(`out/art/${art}.webp`)).byteLength>1000);
- console.log('GitHub Pages export verified: homepage, linked bundles, 5,223 records, 8 illustrations.');
+ const highlights=JSON.parse(await readFile('content/highlights.json','utf8'));
+ const details=JSON.parse(await readFile('out/data/site-details.json','utf8'));
+ assert.equal(Object.keys(highlights).length,50);
+ assert.equal(new Set(Object.values(highlights).map(h=>h.art)).size,50);
+ assert.equal(Object.keys(details).length,5223);
+ for(const site of sites){assert.ok(details[site.id]?.description.length>100);assert.ok(Array.isArray(details[site.id].sources));}
+ for(const id of Object.keys(highlights))assert.ok(sites.some(s=>s.id===id));
+ for(const art of [...Object.values(highlights).map(h=>h.art),'lowlands','highlands']) assert.ok((await readFile(`out/art/${art}.webp`)).byteLength>1000);
+ assert.ok(html.includes('50 ILLUSTRATED HIGHLIGHTS'));
+ console.log('GitHub Pages export verified: homepage, linked bundles, 5,223 detailed records, 50 highlighted drawings and 2 regional studies.');
 }finally{await new Promise(resolve=>server.server.close(resolve));}

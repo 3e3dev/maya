@@ -1,0 +1,501 @@
+{
+  "site-3355": {
+    "url": "https://en.wikipedia.org/wiki/Tamarindito",
+    "label": "Wikipedia · Tamarindito",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.29
+  },
+  "site-3562": {
+    "url": "https://en.wikipedia.org/wiki/Ixtonton",
+    "label": "Wikipedia · Ixtonton",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.67
+  },
+  "site-0867": {
+    "url": "https://en.wikipedia.org/wiki/Ixtutz",
+    "label": "Wikipedia · Ixtutz",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-2069": {
+    "url": "https://en.wikipedia.org/wiki/Chacchoben",
+    "label": "Wikipedia · Chacchoben",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.094
+  },
+  "site-1226": {
+    "url": "https://en.wikipedia.org/wiki/Hormiguero,_Mexico",
+    "label": "Wikipedia · Hormiguero, Mexico",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.127
+  },
+  "site-1765": {
+    "url": "https://en.wikipedia.org/wiki/Chiapa_de_Corzo_(Mesoamerican_site)",
+    "label": "Wikipedia · Chiapa de Corzo (Mesoamerican site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 4.281
+  },
+  "site-3354": {
+    "url": "https://en.wikipedia.org/wiki/Arroyo_de_Piedra",
+    "label": "Wikipedia · Arroyo de Piedra",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.059
+  },
+  "site-1203": {
+    "url": "https://en.wikipedia.org/wiki/Cival",
+    "label": "Wikipedia · Cival",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.345
+  },
+  "site-4988": {
+    "url": "https://en.wikipedia.org/wiki/Cuello",
+    "label": "Wikipedia · Cuello",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.554
+  },
+  "site-4938": {
+    "url": "https://en.wikipedia.org/wiki/Chunchucmil",
+    "label": "Wikipedia · Chunchucmil",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.243
+  },
+  "site-1167": {
+    "url": "https://en.wikipedia.org/wiki/El_Temblor",
+    "label": "Wikipedia · El Temblor",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.764
+  },
+  "site-0283": {
+    "url": "https://en.wikipedia.org/wiki/Tres_Islas",
+    "label": "Wikipedia · Tres Islas",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.506
+  },
+  "site-4997": {
+    "url": "https://en.wikipedia.org/wiki/El_Baúl",
+    "label": "Wikipedia · El Baúl",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.655
+  },
+  "site-1205": {
+    "url": "https://en.wikipedia.org/wiki/Holmul",
+    "label": "Wikipedia · Holmul",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.718
+  },
+  "site-0073": {
+    "url": "https://en.wikipedia.org/wiki/Chunlimon",
+    "label": "Wikipedia · Chunlimon",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-0609": {
+    "url": "https://en.wikipedia.org/wiki/Monte_Alto_culture",
+    "label": "Wikipedia · Monte Alto culture",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-1433": {
+    "url": "https://en.wikipedia.org/wiki/La_Mar",
+    "label": "Wikipedia · La Mar",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-2252": {
+    "url": "https://en.wikipedia.org/wiki/Yula",
+    "label": "Wikipedia · Yula",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-0056": {
+    "url": "https://en.wikipedia.org/wiki/Tzendales",
+    "label": "Wikipedia · Tzendales",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-0872": {
+    "url": "https://en.wikipedia.org/wiki/El_Chal",
+    "label": "Wikipedia · El Chal",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.532
+  },
+  "site-3543": {
+    "url": "https://en.wikipedia.org/wiki/El_Meco",
+    "label": "Wikipedia · El Meco",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-3546": {
+    "url": "https://en.wikipedia.org/wiki/Acanmul",
+    "label": "Wikipedia · Acanmul",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.298
+  },
+  "site-0903": {
+    "url": "https://en.wikipedia.org/wiki/Naachtun",
+    "label": "Wikipedia · Naachtun",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.994
+  },
+  "site-0284": {
+    "url": "https://en.wikipedia.org/wiki/Cancuen",
+    "label": "Wikipedia · Cancuen",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.276
+  },
+  "site-2908": {
+    "url": "https://en.wikipedia.org/wiki/La_Joyanca",
+    "label": "Wikipedia · La Joyanca",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-2187": {
+    "url": "https://en.wikipedia.org/wiki/Cuca_(Maya_site)",
+    "label": "Wikipedia · Cuca (Maya site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.255
+  },
+  "site-5187": {
+    "url": "https://en.wikipedia.org/wiki/Ichkabal",
+    "label": "Wikipedia · Ichkabal",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-1495": {
+    "url": "https://en.wikipedia.org/wiki/Xupa",
+    "label": "Wikipedia · Xupa",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-1623": {
+    "url": "https://en.wikipedia.org/wiki/Tenam_Rosario",
+    "label": "Wikipedia · Tenam Rosario",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-0991": {
+    "url": "https://en.wikipedia.org/wiki/Bakna",
+    "label": "Wikipedia · Bakna",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-4999": {
+    "url": "https://en.wikipedia.org/wiki/San_Andrés,_El_Salvador",
+    "label": "Wikipedia · San Andrés, El Salvador",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.029
+  },
+  "site-2116": {
+    "url": "https://en.wikipedia.org/wiki/Muyil",
+    "label": "Wikipedia · Muyil",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.248
+  },
+  "site-0881": {
+    "url": "https://en.wikipedia.org/wiki/Naranjo,_Guatemala",
+    "label": "Wikipedia · Naranjo, Guatemala",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.557
+  },
+  "site-4358": {
+    "url": "https://en.wikipedia.org/wiki/El_Puente_(Maya_site)",
+    "label": "Wikipedia · El Puente (Maya site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 2.334
+  },
+  "site-0905": {
+    "url": "https://en.wikipedia.org/wiki/Kinal",
+    "label": "Wikipedia · Kinal",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.214
+  },
+  "site-1229": {
+    "url": "https://en.wikipedia.org/wiki/Dzibilnocac",
+    "label": "Wikipedia · Dzibilnocac",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-0804": {
+    "url": "https://en.wikipedia.org/wiki/Salinas_de_los_Nueve_Cerros",
+    "label": "Wikipedia · Salinas de los Nueve Cerros",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-5079": {
+    "url": "https://en.wikipedia.org/wiki/El_Palmar_(Maya_site)",
+    "label": "Wikipedia · El Palmar (Maya site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.604
+  },
+  "site-0259": {
+    "url": "https://en.wikipedia.org/wiki/El_Perú_(Maya_site)",
+    "label": "Wikipedia · El Perú (Maya site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 2.967
+  },
+  "site-0275": {
+    "url": "https://en.wikipedia.org/wiki/Altar_de_Sacrificios",
+    "label": "Wikipedia · Altar de Sacrificios",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.678
+  },
+  "site-4957": {
+    "url": "https://en.wikipedia.org/wiki/San_Gervasio_(Maya_site)",
+    "label": "Wikipedia · San Gervasio (Maya site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.192
+  },
+  "site-2119": {
+    "url": "https://en.wikipedia.org/wiki/Xelha",
+    "label": "Wikipedia · Xelha",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.212
+  },
+  "site-1204": {
+    "url": "https://en.wikipedia.org/wiki/La_Sufricaya",
+    "label": "Wikipedia · La Sufricaya",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-2707": {
+    "url": "https://en.wikipedia.org/wiki/Yoʼokop",
+    "label": "Wikipedia · Yoʼokop",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-4972": {
+    "url": "https://en.wikipedia.org/wiki/Cerros",
+    "label": "Wikipedia · Cerros",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.081
+  },
+  "site-2190": {
+    "url": "https://en.wikipedia.org/wiki/Acanceh",
+    "label": "Wikipedia · Acanceh",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.216
+  },
+  "site-4958": {
+    "url": "https://en.wikipedia.org/wiki/Chinkultic",
+    "label": "Wikipedia · Chinkultic",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.357
+  },
+  "site-5028": {
+    "url": "https://en.wikipedia.org/wiki/Plan_de_Ayutla_(Maya_Site)",
+    "label": "Wikipedia · Plan de Ayutla (Maya Site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.199
+  },
+  "site-0864": {
+    "url": "https://en.wikipedia.org/wiki/Machaquila",
+    "label": "Wikipedia · Machaquila",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.668
+  },
+  "site-3757": {
+    "url": "https://en.wikipedia.org/wiki/Baking_Pot",
+    "label": "Wikipedia · Baking Pot",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.481
+  },
+  "site-4987": {
+    "url": "https://en.wikipedia.org/wiki/Nohmul",
+    "label": "Wikipedia · Nohmul",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.502
+  },
+  "site-0907": {
+    "url": "https://en.wikipedia.org/wiki/Xultun",
+    "label": "Wikipedia · Xultun",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 2.837
+  },
+  "site-1721": {
+    "url": "https://en.wikipedia.org/wiki/Moxviquil",
+    "label": "Wikipedia · Moxviquil",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-0869": {
+    "url": "https://en.wikipedia.org/wiki/Ixkun",
+    "label": "Wikipedia · Ixkun",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 3.996
+  },
+  "site-4998": {
+    "url": "https://en.wikipedia.org/wiki/Cihuatán",
+    "label": "Wikipedia · Cihuatán",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.252
+  },
+  "site-4309": {
+    "url": "https://en.wikipedia.org/wiki/Casa_Blanca,_El_Salvador",
+    "label": "Wikipedia · Casa Blanca, El Salvador",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.721
+  },
+  "site-4992": {
+    "url": "https://en.wikipedia.org/wiki/Uxbenka",
+    "label": "Wikipedia · Uxbenka",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.096
+  },
+  "site-3327": {
+    "url": "https://en.wikipedia.org/wiki/Sacul,_El_Petén",
+    "label": "Wikipedia · Sacul, El Petén",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 2.595
+  },
+  "site-0270": {
+    "url": "https://en.wikipedia.org/wiki/El_Porvenir_(Maya_site)",
+    "label": "Wikipedia · El Porvenir (Maya site)",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 1.878
+  },
+  "site-4994": {
+    "url": "https://en.wikipedia.org/wiki/Qʼumarkaj",
+    "label": "Wikipedia · Qʼumarkaj",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.015
+  },
+  "site-5030": {
+    "url": "https://en.wikipedia.org/wiki/Nakum",
+    "label": "Wikipedia · Nakum",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 4.829
+  },
+  "site-4931": {
+    "url": "https://en.wikipedia.org/wiki/Loltun",
+    "label": "Wikipedia · Loltun",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.094
+  },
+  "site-2467": {
+    "url": "https://en.wikipedia.org/wiki/Xkipche",
+    "label": "Wikipedia · Xkipche",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-3371": {
+    "url": "https://en.wikipedia.org/wiki/San_Bartolo_(Maya_site)",
+    "label": "Wikipedia · San Bartolo (Maya site)",
+    "matchMethod": "manual name and regional context",
+    "distanceKm": null
+  },
+  "site-4962": {
+    "url": "https://en.wikipedia.org/wiki/Nadzca'an",
+    "label": "Wikipedia · Nadzca'an",
+    "matchMethod": "name and nearby coordinates",
+    "distanceKm": 0.577
+  },
+  "site-5000": {
+    "url": "https://whc.unesco.org/en/list/675/",
+    "label": "UNESCO World Heritage Centre",
+    "matchMethod": "alias Ceren; coordinates checked"
+  },
+  "site-1201": {
+    "url": "https://en.wikipedia.org/wiki/El_Zotz",
+    "label": "Wikipedia · El Zotz",
+    "matchMethod": "name and regional context; coordinate discrepancy noted"
+  },
+  "site-0099": {
+    "url": "https://en.wikipedia.org/wiki/Yaxuna",
+    "label": "Wikipedia · Yaxuna",
+    "matchMethod": "name and location checked against archaeological project publication"
+  },
+  "site-2701": {
+    "url": "https://en.wikipedia.org/wiki/El_Pilar",
+    "label": "Wikipedia · El Pilar",
+    "matchMethod": "border complex; original Ford bibliography"
+  },
+  "site-2746": {
+    "url": "https://en.wikipedia.org/wiki/El_Pilar",
+    "label": "Wikipedia · El Pilar",
+    "matchMethod": "border complex; nearby Guatemalan survey record"
+  },
+  "site-2695": {
+    "url": "https://en.wikipedia.org/wiki/Actun_Tunichil_Muknal",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.994
+  },
+  "site-0278": {
+    "url": "https://en.wikipedia.org/wiki/La_Amelia",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 1.009
+  },
+  "site-0587": {
+    "url": "https://en.wikipedia.org/wiki/Balberta",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.589
+  },
+  "site-0444": {
+    "url": "https://en.wikipedia.org/wiki/Cerro_Quiac",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 1.303
+  },
+  "site-5010": {
+    "url": "https://en.wikipedia.org/wiki/Chacmultun",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.141
+  },
+  "site-0501": {
+    "url": "https://en.wikipedia.org/wiki/Chocolá",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.987
+  },
+  "site-0217": {
+    "url": "https://en.wikipedia.org/wiki/Chutixtiox",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 1.101
+  },
+  "site-2878": {
+    "url": "https://en.wikipedia.org/wiki/Holtun",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.0
+  },
+  "site-3567": {
+    "url": "https://en.wikipedia.org/wiki/Ixlu",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.158
+  },
+  "site-2493": {
+    "url": "https://en.wikipedia.org/wiki/Kiuic",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 1.31
+  },
+  "site-0022": {
+    "url": "https://en.wikipedia.org/wiki/Limones_(Maya_site)",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.442
+  },
+  "site-0070": {
+    "url": "https://en.wikipedia.org/wiki/Pusilha",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.002
+  },
+  "site-0878": {
+    "url": "https://en.wikipedia.org/wiki/Topoxte",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 1.541
+  },
+  "site-5127": {
+    "url": "https://en.wikipedia.org/wiki/Uxul",
+    "label": "Wikipedia · archaeological overview",
+    "matchMethod": "Name and coordinates checked against archaeological article",
+    "distanceKm": 0.367
+  }
+}

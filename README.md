@@ -8,9 +8,13 @@ A light OpenStreetMap atlas of all 5,223 coordinate records in the MayaMap EAAMS
 
 Coordinates, rank, notes and bibliographic references are preserved from https://mayamap.org/data/maya_sites.geojson. See `public/data/provenance.json` for retrieval details and source checksum. EAAMS was compiled by Walter Witschey and Clifford Brown. This is a source inventory, not a claim to contain every Maya archaeological site. All records are retained, including unclassified ranks and peripheral/unspecified locations.
 
-Six landmark entries have historical summaries linked to UNESCO or INAH and individually generated drawings. Other entries use the original survey information and one of two shared, explicitly conceptual regional illustrations. The illustrations are interpretive, not evidence of specific architectural details. Exact prompts and generation provenance are in `public/art/PROVENANCE.md`. Images were created with the built-in image_gen tool and encoded as WebP.
+Fifty highlighted entries have expanded histories and individual drawings. A catalogue-wide review provides 134 source-linked profiles, using UNESCO, INAH and archaeological reference articles. All 5,223 records have descriptions: records without verified histories use their survey fields, interpreted field annotations and explicitly calculated straight-line geographic context. No chronology or political affiliation is inferred from proximity. Other entries use one of two shared, explicitly conceptual regional illustrations. The illustrations are interpretive, not evidence of specific architectural details. Exact prompts and generation provenance are in `public/art/PROVENANCE.md`. Images were created with the built-in image_gen tool and encoded as WebP.
 
 Basemap: OpenFreeMap / OpenMapTiles, using OpenStreetMap data. Basemap and coordinate attribution remain visible on the map and in the About panel.
+
+## Content review
+
+`content/highlights.tsv` and `content/research.tsv` contain original, source-linked editorial summaries keyed to stable record IDs. `scripts/build-content.mjs` produces the public detail catalogue and review report without modifying the source coordinates. `content/review-index.json` records the bounded external reference-index comparison; ambiguous names, modern-town redirects and conflicting coordinates are not automatically enriched. The review is not an exhaustive search of all archaeological literature. See `public/data/review.json` for per-record coverage and methods. Rebuild content with `node scripts/build-content.mjs` after editing the source text. The normal production build runs this automatically.
 
 ## Development
 
